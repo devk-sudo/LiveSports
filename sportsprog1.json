@@ -367,7 +367,8 @@
             "eventUrl": "https://livesports808.top/watch/live-parma-vs-juventus-live-stream",
             "id": "live-parma-vs-juventus-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/160px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/125px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/125px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295623/match_banners/live-parma-vs-juventus-live-stream.png"
         },
         {
             "homeTeam": "Torino",
@@ -382,7 +383,8 @@
             "eventUrl": "https://livesports808.top/watch/live-torino-vs-udinese-live-stream",
             "id": "live-torino-vs-udinese-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/250px-Torino_FC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/250px-Udinese_Calcio_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/250px-Udinese_Calcio_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295625/match_banners/live-torino-vs-udinese-live-stream.png"
         },
         {
             "homeTeam": "Genoa",
@@ -397,7 +399,8 @@
             "eventUrl": "https://livesports808.top/watch/live-genoa-vs-lazio-live-stream",
             "id": "live-genoa-vs-lazio-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/140px-Genoa_CFC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/250px-S.S._Lazio_badge.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/250px-S.S._Lazio_badge.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295626/match_banners/live-genoa-vs-lazio-live-stream.png"
         },
         {
             "homeTeam": "Athletic Club",
@@ -414,7 +417,8 @@
             "eventUrl": "https://livesports808.top/watch/live-athletic-club-vs-las-palmas-live-stream",
             "id": "live-athletic-club-vs-las-palmas-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/175px-Club_Athletic_Bilbao_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/130px-UD_Las_Palmas_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/130px-UD_Las_Palmas_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295627/match_banners/live-athletic-club-vs-las-palmas-live-stream.png"
         },
         {
             "homeTeam": "Celta de Vigo",
@@ -430,7 +434,8 @@
             "eventUrl": "https://livesports808.top/watch/live-celta-de-vigo-vs-villarreal-live-stream",
             "id": "live-celta-de-vigo-vs-villarreal-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/150px-RC_Celta_de_Vigo_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/250px-Villarreal_CF_logo-en.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/250px-Villarreal_CF_logo-en.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295628/match_banners/live-celta-de-vigo-vs-villarreal-live-stream.png"
         },
         {
             "homeTeam": "Antwerp",
@@ -445,7 +450,8 @@
             "eventUrl": "https://livesports808.top/watch/live-antwerp-vs-genk-live-stream",
             "id": "live-antwerp-vs-genk-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Royal_Antwerp_Football_Club_logo.svg/150px-Royal_Antwerp_Football_Club_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_KRC_Genk.png/250px-Logo_KRC_Genk.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_KRC_Genk.png/250px-Logo_KRC_Genk.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295629/match_banners/live-antwerp-vs-genk-live-stream.png"
         },
         {
             "homeTeam": "Anderlecht",
@@ -460,7 +466,8 @@
             "eventUrl": "https://livesports808.top/watch/live-anderlecht-vs-gent-live-stream",
             "id": "live-anderlecht-vs-gent-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295629/match_banners/live-anderlecht-vs-gent-live-stream.png"
         },
         {
             "homeTeam": "Arsenal",
@@ -477,7 +484,8 @@
             "eventUrl": "https://livesports808.top/watch/live-arsenal-vs-crystal-palace-live-stream",
             "id": "live-arsenal-vs-crystal-palace-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295630/match_banners/live-arsenal-vs-crystal-palace-live-stream.png"
         },
         {
             "homeTeam": "Internazionale",
@@ -495,7 +503,8 @@
             "eventUrl": "https://livesports808.top/watch/live-internazionale-vs-milan-live-stream",
             "id": "live-internazionale-vs-milan-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295631/match_banners/live-internazionale-vs-milan-live-stream.png"
         },
         {
             "homeTeam": "Benfica",
@@ -510,7 +519,8 @@
             "eventUrl": "https://livesports808.top/watch/live-benfica-vs-tirsense-live-stream",
             "id": "live-benfica-vs-tirsense-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295632/match_banners/live-benfica-vs-tirsense-live-stream.png"
         },
         {
             "homeTeam": "Getafe",
@@ -529,7 +539,8 @@
             "eventUrl": "https://livesports808.top/watch/live-getafe-vs-real-madrid-live-stream",
             "id": "live-getafe-vs-real-madrid-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295633/match_banners/live-getafe-vs-real-madrid-live-stream.png"
         },
         {
             "homeTeam": "Deportivo Alav\u00e9s",
@@ -545,7 +556,8 @@
             "eventUrl": "https://livesports808.top/watch/live-deportivo-alav-s-vs-real-sociedad-live-stream",
             "id": "live-deportivo-alav-s-vs-real-sociedad-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295634/match_banners/live-deportivo-alav-s-vs-real-sociedad-live-stream.png"
         },
         {
             "homeTeam": "Uni\u00f3n Espa\u00f1ola",
@@ -561,7 +573,8 @@
             "eventUrl": "https://livesports808.top/watch/live-uni-n-espa-ola-vs-fluminense-live-stream",
             "id": "live-uni-n-espa-ola-vs-fluminense-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295634/match_banners/live-uni-n-espa-ola-vs-fluminense-live-stream.png"
         },
         {
             "homeTeam": "Olimpia",
@@ -578,7 +591,8 @@
             "eventUrl": "https://livesports808.top/watch/live-olimpia-vs-pe-arol-live-stream",
             "id": "live-olimpia-vs-pe-arol-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295635/match_banners/live-olimpia-vs-pe-arol-live-stream.png"
         },
         {
             "homeTeam": "Hurac\u00e1n",
@@ -593,7 +607,8 @@
             "eventUrl": "https://livesports808.top/watch/live-hurac-n-vs-am-rica-de-cali-live-stream",
             "id": "live-hurac-n-vs-am-rica-de-cali-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295636/match_banners/live-hurac-n-vs-am-rica-de-cali-live-stream.png"
         },
         {
             "homeTeam": "Independiente del Valle",
@@ -610,7 +625,8 @@
             "eventUrl": "https://livesports808.top/watch/live-independiente-del-valle-vs-river-plate-live-stream",
             "id": "live-independiente-del-valle-vs-river-plate-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295637/match_banners/live-independiente-del-valle-vs-river-plate-live-stream.png"
         },
         {
             "homeTeam": "Estudiantes",
@@ -627,7 +643,8 @@
             "eventUrl": "https://livesports808.top/watch/live-estudiantes-vs-botafogo-live-stream",
             "id": "live-estudiantes-vs-botafogo-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295638/match_banners/live-estudiantes-vs-botafogo-live-stream.png"
         },
         {
             "homeTeam": "Caracas",
@@ -643,7 +660,8 @@
             "eventUrl": "https://livesports808.top/watch/live-caracas-vs-atl-tico-mineiro-live-stream",
             "id": "live-caracas-vs-atl-tico-mineiro-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295639/match_banners/live-caracas-vs-atl-tico-mineiro-live-stream.png"
         },
         {
             "homeTeam": "Libertad",
@@ -658,7 +676,8 @@
             "eventUrl": "https://livesports808.top/watch/live-libertad-vs-s-o-paulo-live-stream",
             "id": "live-libertad-vs-s-o-paulo-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/250px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/250px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295640/match_banners/live-libertad-vs-s-o-paulo-live-stream.png"
         },
         {
             "homeTeam": "Vit\u00f3ria",
@@ -673,7 +692,8 @@
             "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-cerro-largo-live-stream",
             "id": "live-vit-ria-vs-cerro-largo-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295641/match_banners/live-vit-ria-vs-cerro-largo-live-stream.png"
         },
         {
             "homeTeam": "Tigres UANL",
@@ -688,7 +708,8 @@
             "eventUrl": "https://livesports808.top/watch/live-tigres-uanl-vs-cruz-azul-live-stream",
             "id": "live-tigres-uanl-vs-cruz-azul-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295641/match_banners/live-tigres-uanl-vs-cruz-azul-live-stream.png"
         },
         {
             "homeTeam": "Atl\u00e9tico Bucaramanga",
@@ -705,7 +726,8 @@
             "eventUrl": "https://livesports808.top/watch/live-atl-tico-bucaramanga-vs-fortaleza-live-stream",
             "id": "live-atl-tico-bucaramanga-vs-fortaleza-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/devk-sudo/LiveSports/refs/heads/main/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1745295642/match_banners/live-atl-tico-bucaramanga-vs-fortaleza-live-stream.png"
         }
     ]
 }
