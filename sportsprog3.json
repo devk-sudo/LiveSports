@@ -38,7 +38,7 @@
             "time": "2025-05-26T15:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "England: League Two, Playoffs",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
@@ -55,7 +55,7 @@
             "time": "2025-05-26T15:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Bulgaria: First Professional League, Championship Round",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -71,7 +71,7 @@
             "time": "2025-05-26T15:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Bulgaria: First Professional League, Championship Round",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -87,7 +87,7 @@
             "time": "2025-05-26T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Turkey: Trendyol S\u00fcper Lig",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php"
             ],
@@ -103,7 +103,7 @@
             "time": "2025-05-26T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Austria: Austrian Bundesliga, Europa League Playoffs",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
@@ -114,28 +114,12 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233519/match_banners/live-lask-linz-vs-hartberg-live-stream.png"
         },
         {
-            "homeTeam": "Beroe",
-            "awayTeam": "Spartak Varna",
-            "time": "2025-05-26T18:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-beroe-vs-spartak-varna-live-stream",
-            "id": "live-beroe-vs-spartak-varna-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Spartak_Varna.png/250px-Spartak_Varna.png",
-            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233520/match_banners/live-beroe-vs-spartak-varna-live-stream.png"
-        },
-        {
             "homeTeam": "Botev Plovdiv",
             "awayTeam": "CSKA Sofia",
             "time": "2025-05-26T18:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Bulgaria: First Professional League, Qualifying Round",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -146,21 +130,20 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233521/match_banners/live-botev-plovdiv-vs-cska-sofia-live-stream.png"
         },
         {
-            "homeTeam": "Al Fateh",
-            "awayTeam": "Al Nassr",
-            "time": "2025-05-26T19:00:00+01:00",
+            "homeTeam": "Beroe",
+            "awayTeam": "Spartak Varna",
+            "time": "2025-05-26T18:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Bulgaria: First Professional League, Qualifying Round",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
+                "https://sportzonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-al-fateh-vs-al-nassr-live-stream",
-            "id": "live-al-fateh-vs-al-nassr-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Fateh_SC_Logo.svg/250px-Al_Fateh_SC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Nassr_FC_Logo.svg/250px-Nassr_FC_Logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233521/match_banners/live-al-fateh-vs-al-nassr-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-beroe-vs-spartak-varna-live-stream",
+            "id": "live-beroe-vs-spartak-varna-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Spartak_Varna.png/250px-Spartak_Varna.png",
+            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233520/match_banners/live-beroe-vs-spartak-varna-live-stream.png"
         },
         {
             "homeTeam": "Al Ittihad",
@@ -168,7 +151,7 @@
             "time": "2025-05-26T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Saudi Arabia: Saudi Pro League",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php",
                 "https://sportzonline.si/channels/pt/sporttv3.php"
@@ -180,12 +163,29 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233522/match_banners/live-al-ittihad-vs-damac-live-stream.png"
         },
         {
+            "homeTeam": "Al Fateh",
+            "awayTeam": "Al Nassr",
+            "time": "2025-05-26T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Saudi Arabia: Saudi Pro League",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd4.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-al-fateh-vs-al-nassr-live-stream",
+            "id": "live-al-fateh-vs-al-nassr-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Fateh_SC_Logo.svg/250px-Al_Fateh_SC_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Nassr_FC_Logo.svg/250px-Nassr_FC_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233521/match_banners/live-al-fateh-vs-al-nassr-live-stream.png"
+        },
+        {
             "homeTeam": "Elversberg",
             "awayTeam": "Heidenheim",
             "time": "2025-05-26T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Germany: Bundesliga, Relegation/Promotion Playoffs",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php",
                 "https://sportzonline.si/channels/pt/eleven1.php"
@@ -202,7 +202,7 @@
             "time": "2025-05-26T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Scotland: Scottish Premiership, Relegation/Promotion",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php"
             ],
@@ -218,7 +218,7 @@
             "time": "2025-05-26T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -234,7 +234,7 @@
             "time": "2025-05-26T23:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o Betano",
             "urls": [
                 "https://sportzonline.si/channels/bra/br3.php"
             ],
@@ -266,7 +266,7 @@
             "time": "2025-05-27T00:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br6.php"
             ],
@@ -282,7 +282,7 @@
             "time": "2025-05-27T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Germany: 2. Bundesliga, Relegation/Promotion Playoffs",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -293,12 +293,29 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233526/match_banners/live-eintracht-braunschweig-vs-saarbr-cken-live-stream.png"
         },
         {
+            "homeTeam": "Vasco da Gama",
+            "awayTeam": "Melgar",
+            "time": "2025-05-27T23:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "South America: CONMEBOL Sudamericana, Group G",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv2.php",
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-vasco-da-gama-vs-melgar-live-stream",
+            "id": "live-vasco-da-gama-vs-melgar-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/CR_Vasco_da_Gama_2021_logo.png/250px-CR_Vasco_da_Gama_2021_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/FBC_Melgar.png/200px-FBC_Melgar.png",
+            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233529/match_banners/live-vasco-da-gama-vs-melgar-live-stream.png"
+        },
+        {
             "homeTeam": "Libertad",
             "awayTeam": "Alianza Lima",
             "time": "2025-05-27T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: CONMEBOL Libertadores, Group D",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd6.php"
@@ -315,7 +332,7 @@
             "time": "2025-05-27T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: CONMEBOL Libertadores, Group D",
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv1.php",
                 "https://sportzonline.si/channels/bra/br2.php"
@@ -327,29 +344,12 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233528/match_banners/live-s-o-paulo-vs-talleres-c-rdoba-live-stream.png"
         },
         {
-            "homeTeam": "Vasco da Gama",
-            "awayTeam": "Melgar",
-            "time": "2025-05-27T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv2.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-vasco-da-gama-vs-melgar-live-stream",
-            "id": "live-vasco-da-gama-vs-melgar-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/CR_Vasco_da_Gama_2021_logo.png/250px-CR_Vasco_da_Gama_2021_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/FBC_Melgar.png/200px-FBC_Melgar.png",
-            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233529/match_banners/live-vasco-da-gama-vs-melgar-live-stream.png"
-        },
-        {
             "homeTeam": "Am\u00e9rica Mineiro",
             "awayTeam": "Atl\u00e9tico Goianiense",
             "time": "2025-05-27T23:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br4.php"
             ],
@@ -360,12 +360,29 @@
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233530/match_banners/live-am-rica-mineiro-vs-atl-tico-goianiense-live-stream.png"
         },
         {
+            "homeTeam": "Hurac\u00e1n",
+            "awayTeam": "Corinthians",
+            "time": "2025-05-28T01:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "South America: CONMEBOL Sudamericana, Group C",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv4.php",
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-hurac-n-vs-corinthians-live-stream",
+            "id": "live-hurac-n-vs-corinthians-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/120px-Corinthian_fc_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233532/match_banners/live-hurac-n-vs-corinthians-live-stream.png"
+        },
+        {
             "homeTeam": "River Plate",
             "awayTeam": "Universitario",
             "time": "2025-05-28T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: CONMEBOL Libertadores, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -383,7 +400,7 @@
             "time": "2025-05-28T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: CONMEBOL Libertadores, Group A",
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv2.php",
                 "https://sportzonline.si/channels/bra/br1.php"
@@ -393,23 +410,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emblema_del_Club_Universidad_de_Chile.png/250px-Emblema_del_Club_Universidad_de_Chile.png",
             "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233531/match_banners/live-botafogo-vs-universidad-chile-live-stream.png"
-        },
-        {
-            "homeTeam": "Hurac\u00e1n",
-            "awayTeam": "Corinthians",
-            "time": "2025-05-28T01:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv4.php",
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-hurac-n-vs-corinthians-live-stream",
-            "id": "live-hurac-n-vs-corinthians-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/120px-Corinthian_fc_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dwp6jwq1h/image/upload/v1748233532/match_banners/live-hurac-n-vs-corinthians-live-stream.png"
         }
     ]
 }
