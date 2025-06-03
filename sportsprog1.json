@@ -1,184 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Internacional",
-            "awayTeam": "Fluminense",
-            "time": "2025-06-02T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o Betano",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-fluminense-live-stream",
-            "id": "live-internacional-vs-fluminense-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748665414/match_banners/live-internacional-vs-fluminense-live-stream.png"
-        },
-        {
-            "homeTeam": "Cruz Azul",
-            "awayTeam": "Vancouver Whitecaps",
-            "time": "2025-06-02T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Champions Cup",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cruz-azul-vs-vancouver-whitecaps-live-stream",
-            "id": "live-cruz-azul-vs-vancouver-whitecaps-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Club_de_Futbol_Cruz_Azul.svg/250px-Club_de_Futbol_Cruz_Azul.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Vancouver_Whitecaps_FC_logo.svg/250px-Vancouver_Whitecaps_FC_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748665415/match_banners/live-cruz-azul-vs-vancouver-whitecaps-live-stream.png"
-        },
-        {
-            "homeTeam": "Unirea Slobozia",
-            "awayTeam": "Voluntari",
-            "time": "2025-06-02T18:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Romania: Super Liga, Relegation/Promotion Playoffs",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-unirea-slobozia-vs-voluntari-live-stream",
-            "id": "live-unirea-slobozia-vs-voluntari-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/AFC_Unirea_Slobozia.png/250px-AFC_Unirea_Slobozia.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/FC_Voluntari_logo.png/250px-FC_Voluntari_logo.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838958/match_banners/live-unirea-slobozia-vs-voluntari-live-stream.png"
-        },
-        {
-            "homeTeam": "Ternana",
-            "awayTeam": "Pescara",
-            "time": "2025-06-02T20:15:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Italy: Serie C, Playoffs, Promotion Playoffs",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd7.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-ternana-vs-pescara-live-stream",
-            "id": "live-ternana-vs-pescara-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Ternana_Calcio_crest.svg/250px-Ternana_Calcio_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Delfino_Pescara_logo.svg/140px-Delfino_Pescara_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838959/match_banners/live-ternana-vs-pescara-live-stream.png"
-        },
-        {
-            "homeTeam": "Sportivo Luque\u00f1o",
-            "awayTeam": "Sportivo Ameliano",
-            "time": "2025-06-02T21:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Paraguay: Divisi\u00f3n de Honor, Apertura",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sportivo-luque-o-vs-sportivo-ameliano-live-stream",
-            "id": "live-sportivo-luque-o-vs-sportivo-ameliano-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EscudoLuque2022.png/250px-EscudoLuque2022.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Club_Sportivo_Ameliano.png/250px-Club_Sportivo_Ameliano.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838959/match_banners/live-sportivo-luque-o-vs-sportivo-ameliano-live-stream.png"
-        },
-        {
-            "homeTeam": "Nueva Chicago",
-            "awayTeam": "Temperley",
-            "time": "2025-06-02T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Argentina: Primera Nacional, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd8.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-nueva-chicago-vs-temperley-live-stream",
-            "id": "live-nueva-chicago-vs-temperley-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CANCH_Oficial.png/250px-CANCH_Oficial.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Club-Atl%C3%A9tico-Temperley.png/120px-Club-Atl%C3%A9tico-Temperley.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838960/match_banners/live-nueva-chicago-vs-temperley-live-stream.png"
-        },
-        {
-            "homeTeam": "Chapecoense",
-            "awayTeam": "Amazonas",
-            "time": "2025-06-02T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-chapecoense-vs-amazonas-live-stream",
-            "id": "live-chapecoense-vs-amazonas-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.png/250px-Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Amazonas_Futebol_Clube.png/250px-Amazonas_Futebol_Clube.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838961/match_banners/live-chapecoense-vs-amazonas-live-stream.png"
-        },
-        {
-            "homeTeam": "Atl\u00e9tico Bucaramanga",
-            "awayTeam": "Deportivo Cali",
-            "time": "2025-06-03T00:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Colombia: Primera A, Apertura, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-atl-tico-bucaramanga-vs-deportivo-cali-live-stream",
-            "id": "live-atl-tico-bucaramanga-vs-deportivo-cali-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/SmVzQpYC5Jw282r31S9YyA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/B44aM-Ibb3k4TuC0PhciEA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848183/match_banners/live-atl-tico-bucaramanga-vs-deportivo-cali-live-stream.png"
-        },
-        {
-            "homeTeam": "Brazil W",
-            "awayTeam": "Japan W",
-            "time": "2025-06-03T00:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "International Friendly Games, Women",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-brazil-w-vs-japan-w-live-stream",
-            "id": "live-brazil-w-vs-japan-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848184/match_banners/live-brazil-w-vs-japan-w-live-stream.png"
-        },
-        {
-            "homeTeam": "Paysandu",
-            "awayTeam": "Crici\u00fama",
-            "time": "2025-06-03T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-paysandu-vs-crici-ma-live-stream",
-            "id": "live-paysandu-vs-crici-ma-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Paysandu_Sport_Club_logo.svg/250px-Paysandu_Sport_Club_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/250px-EscudoCriciumaEC.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748838963/match_banners/live-paysandu-vs-crici-ma-live-stream.png"
-        },
-        {
-            "homeTeam": "Deportivo Pereira",
-            "awayTeam": "Fortaleza CEIF",
-            "time": "2025-06-03T02:15:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Colombia: Primera A, Apertura, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-deportivo-pereira-vs-fortaleza-ceif-live-stream",
-            "id": "live-deportivo-pereira-vs-fortaleza-ceif-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5uF-LNu9tpUdI3tz-juutw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/cGwDgyxlkNN9ELN8GOHdwg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848185/match_banners/live-deportivo-pereira-vs-fortaleza-ceif-live-stream.png"
-        },
-        {
             "homeTeam": "Mali U20",
             "awayTeam": "Panama U20",
             "time": "2025-06-03T13:00:00+01:00",
@@ -213,6 +35,22 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848187/match_banners/live-france-u20-vs-saudi-arabia-u23-live-stream.png"
         },
         {
+            "homeTeam": "Republic of Ireland W",
+            "awayTeam": "Slovenia W",
+            "time": "2025-06-03T18:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Nations League, Women, League B, Gr.2",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-republic-of-ireland-w-vs-slovenia-w-live-stream",
+            "id": "live-republic-of-ireland-w-vs-slovenia-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z_QuO6sLWZ8Wj8InijoXLQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848189/match_banners/live-republic-of-ireland-w-vs-slovenia-w-live-stream.png"
+        },
+        {
             "homeTeam": "Spain W",
             "awayTeam": "England W",
             "time": "2025-06-03T18:00:00+01:00",
@@ -230,22 +68,6 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848188/match_banners/live-spain-w-vs-england-w-live-stream.png"
-        },
-        {
-            "homeTeam": "Republic of Ireland W",
-            "awayTeam": "Slovenia W",
-            "time": "2025-06-03T18:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Nations League, Women, League B, Gr.2",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-republic-of-ireland-w-vs-slovenia-w-live-stream",
-            "id": "live-republic-of-ireland-w-vs-slovenia-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z_QuO6sLWZ8Wj8InijoXLQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848189/match_banners/live-republic-of-ireland-w-vs-slovenia-w-live-stream.png"
         },
         {
             "homeTeam": "Portugal W",
@@ -313,22 +135,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848191/match_banners/live-wales-w-vs-italy-w-live-stream.png"
         },
         {
-            "homeTeam": "Iceland W",
-            "awayTeam": "France W",
-            "time": "2025-06-03T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Nations League, Women, League A, Gr.2",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-iceland-w-vs-france-w-live-stream",
-            "id": "live-iceland-w-vs-france-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848192/match_banners/live-iceland-w-vs-france-w-live-stream.png"
-        },
-        {
             "homeTeam": "Switzerland W",
             "awayTeam": "Norway W",
             "time": "2025-06-03T19:00:00+01:00",
@@ -343,6 +149,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_96x96.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848193/match_banners/live-switzerland-w-vs-norway-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Iceland W",
+            "awayTeam": "France W",
+            "time": "2025-06-03T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Nations League, Women, League A, Gr.2",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-iceland-w-vs-france-w-live-stream",
+            "id": "live-iceland-w-vs-france-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1748848192/match_banners/live-iceland-w-vs-france-w-live-stream.png"
         },
         {
             "homeTeam": "Austria W",
