@@ -1,214 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Saudi Arabia U23",
-            "awayTeam": "Mali U20",
-            "time": "2025-06-09T13:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Tournoi Maurice Revello, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-saudi-arabia-u23-vs-mali-u20-live-stream",
-            "id": "live-saudi-arabia-u23-vs-mali-u20-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/zZzKmdy0FsJ159f9r0vxrA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450747/match_banners/live-saudi-arabia-u23-vs-mali-u20-live-stream.png"
-        },
-        {
-            "homeTeam": "Kazakhstan",
-            "awayTeam": "North Macedonia",
-            "time": "2025-06-09T15:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA J",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-kazakhstan-vs-north-macedonia-live-stream",
-            "id": "live-kazakhstan-vs-north-macedonia-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/GWILg_KpGKpR9VHX4Q9SpQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/JCU93J9GUw6QWkH-RBNulg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450747/match_banners/live-kazakhstan-vs-north-macedonia-live-stream.png"
-        },
-        {
-            "homeTeam": "Panama U20",
-            "awayTeam": "France U20",
-            "time": "2025-06-09T16:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Maurice Revello Tournament",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-panama-u20-vs-france-u20-live-stream",
-            "id": "live-panama-u20-vs-france-u20-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/JIn8OwxL6KFFiYrKGnL2RQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450748/match_banners/live-panama-u20-vs-france-u20-live-stream.png"
-        },
-        {
-            "homeTeam": "Liechtenstein",
-            "awayTeam": "Scotland",
-            "time": "2025-06-09T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Int. Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-liechtenstein-vs-scotland-live-stream",
-            "id": "live-liechtenstein-vs-scotland-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/PpQDJ24cZ3-rNIVmaJ0ypQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450749/match_banners/live-liechtenstein-vs-scotland-live-stream.png"
-        },
-        {
-            "homeTeam": "Estonia",
-            "awayTeam": "Norway",
-            "time": "2025-06-09T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA I",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/pt/sporttv4.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-estonia-vs-norway-live-stream",
-            "id": "live-estonia-vs-norway-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h6HrOWT3PZsxVX3m5B9E9w_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450750/match_banners/live-estonia-vs-norway-live-stream.png"
-        },
-        {
-            "homeTeam": "Belgium",
-            "awayTeam": "Wales",
-            "time": "2025-06-09T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA J",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php",
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-belgium-vs-wales-live-stream",
-            "id": "live-belgium-vs-wales-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450750/match_banners/live-belgium-vs-wales-live-stream.png"
-        },
-        {
-            "homeTeam": "Croatia",
-            "awayTeam": "Czech Republic",
-            "time": "2025-06-09T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA L",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/pt/sporttv3.php",
-                "https://sportzonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-croatia-vs-czech-republic-live-stream",
-            "id": "live-croatia-vs-czech-republic-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8AluO-WxpcHtC0KKHmFgvg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450751/match_banners/live-croatia-vs-czech-republic-live-stream.png"
-        },
-        {
-            "homeTeam": "Italy",
-            "awayTeam": "Moldova",
-            "time": "2025-06-09T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA I",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-italy-vs-moldova-live-stream",
-            "id": "live-italy-vs-moldova-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/ze_l59X1MjqqpEe0Re16cw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450752/match_banners/live-italy-vs-moldova-live-stream.png"
-        },
-        {
-            "homeTeam": "Morocco",
-            "awayTeam": "Benin",
-            "time": "2025-06-09T21:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Int. Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-morocco-vs-benin-live-stream",
-            "id": "live-morocco-vs-benin-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/EO_PoDkZTsWom_ZTj54SVg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450753/match_banners/live-morocco-vs-benin-live-stream.png"
-        },
-        {
-            "homeTeam": "Crici\u00fama",
-            "awayTeam": "Vila Nova",
-            "time": "2025-06-09T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-crici-ma-vs-vila-nova-live-stream",
-            "id": "live-crici-ma-vs-vila-nova-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/250px-EscudoCriciumaEC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vila_Nova_Logo_Oficial.svg/250px-Vila_Nova_Logo_Oficial.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749416488/match_banners/live-crici-ma-vs-vila-nova-live-stream.png"
-        },
-        {
-            "homeTeam": "Amazonas",
-            "awayTeam": "Athletic Club",
-            "time": "2025-06-09T23:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-amazonas-vs-athletic-club-live-stream",
-            "id": "live-amazonas-vs-athletic-club-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Amazonas_Futebol_Clube.png/250px-Amazonas_Futebol_Clube.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oldham_Athletic_AFC_%28emblem%29.svg/120px-Oldham_Athletic_AFC_%28emblem%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749416489/match_banners/live-amazonas-vs-athletic-club-live-stream.png"
-        },
-        {
-            "homeTeam": "Corinthians W",
-            "awayTeam": "Flamengo W",
-            "time": "2025-06-10T00:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-corinthians-w-vs-flamengo-w-live-stream",
-            "id": "live-corinthians-w-vs-flamengo-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_sc_corinthians.png/250px-Escudo_sc_corinthians.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749416491/match_banners/live-corinthians-w-vs-flamengo-w-live-stream.png"
-        },
-        {
             "homeTeam": "Myanmar",
             "awayTeam": "Pakistan",
             "time": "2025-06-10T11:30:00+01:00",
@@ -290,22 +82,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450757/match_banners/live-denmark-u20-vs-japan-u20-live-stream.png"
         },
         {
-            "homeTeam": "Kyrgyzstan",
-            "awayTeam": "United Arab Emirates",
-            "time": "2025-06-10T14:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Asia: World Cup Qualification, AFC, Round 3, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-kyrgyzstan-vs-united-arab-emirates-live-stream",
-            "id": "live-kyrgyzstan-vs-united-arab-emirates-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KN-7WnOfDfIicywii8dtzw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/v_vORXEGt13cTEb-zw7yWA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450758/match_banners/live-kyrgyzstan-vs-united-arab-emirates-live-stream.png"
-        },
-        {
             "homeTeam": "Uzbekistan",
             "awayTeam": "Qatar",
             "time": "2025-06-10T14:45:00+01:00",
@@ -322,6 +98,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4UvchPY7qJwQhQjWMgHTqQ_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450758/match_banners/live-uzbekistan-vs-qatar-live-stream.png"
+        },
+        {
+            "homeTeam": "Kyrgyzstan",
+            "awayTeam": "United Arab Emirates",
+            "time": "2025-06-10T14:45:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Asia: World Cup Qualification, AFC, Round 3, Group A",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-kyrgyzstan-vs-united-arab-emirates-live-stream",
+            "id": "live-kyrgyzstan-vs-united-arab-emirates-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KN-7WnOfDfIicywii8dtzw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/v_vORXEGt13cTEb-zw7yWA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450758/match_banners/live-kyrgyzstan-vs-united-arab-emirates-live-stream.png"
         },
         {
             "homeTeam": "Mexico U20",
@@ -421,6 +213,22 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450763/match_banners/live-denmark-vs-lithuania-live-stream.png"
         },
         {
+            "homeTeam": "Jordan",
+            "awayTeam": "Iraq",
+            "time": "2025-06-10T19:15:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Asia: World Cup Qualification, AFC, Round 3, Group B",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-jordan-vs-iraq-live-stream",
+            "id": "live-jordan-vs-iraq-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/9swSmw5NICcCYIQ8FERjhw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/S5ivsscrfCG1mgqceKMPlQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450765/match_banners/live-jordan-vs-iraq-live-stream.png"
+        },
+        {
             "homeTeam": "Saudi Arabia",
             "awayTeam": "Australia",
             "time": "2025-06-10T19:15:00+01:00",
@@ -436,22 +244,6 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450764/match_banners/live-saudi-arabia-vs-australia-live-stream.png"
-        },
-        {
-            "homeTeam": "Jordan",
-            "awayTeam": "Iraq",
-            "time": "2025-06-10T19:15:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Asia: World Cup Qualification, AFC, Round 3, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-jordan-vs-iraq-live-stream",
-            "id": "live-jordan-vs-iraq-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/9swSmw5NICcCYIQ8FERjhw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/S5ivsscrfCG1mgqceKMPlQ_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450765/match_banners/live-jordan-vs-iraq-live-stream.png"
         },
         {
             "homeTeam": "Palestine",
@@ -488,20 +280,36 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450767/match_banners/live-finland-vs-poland-live-stream.png"
         },
         {
-            "homeTeam": "Romania",
-            "awayTeam": "Cyprus",
+            "homeTeam": "San Marino",
+            "awayTeam": "Austria",
             "time": "2025-06-10T19:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "Europe: World Championship Qual. UEFA H",
             "urls": [
-                "https://sportzonline.si/channels/pt/sporttv5.php"
+                "https://sportzonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-romania-vs-cyprus-live-stream",
-            "id": "live-romania-vs-cyprus-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443849/match_banners/live-romania-vs-cyprus-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-san-marino-vs-austria-live-stream",
+            "id": "live-san-marino-vs-austria-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lvpnX8YUQiMuVH7jKrtIaQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HwYB-wsdd6M2WmLXSkd6Sg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450771/match_banners/live-san-marino-vs-austria-live-stream.png"
+        },
+        {
+            "homeTeam": "Greece",
+            "awayTeam": "Bulgaria",
+            "time": "2025-06-10T19:45:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Int. Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-greece-vs-bulgaria-live-stream",
+            "id": "live-greece-vs-bulgaria-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4iCrrqHfq9zLlhOt34o7Pg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450768/match_banners/live-greece-vs-bulgaria-live-stream.png"
         },
         {
             "homeTeam": "Serbia",
@@ -521,54 +329,20 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450767/match_banners/live-serbia-vs-andorra-live-stream.png"
         },
         {
-            "homeTeam": "Greece",
-            "awayTeam": "Bulgaria",
+            "homeTeam": "Romania",
+            "awayTeam": "Cyprus",
             "time": "2025-06-10T19:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Int. Friendly Games",
+            "competition": "Europe: World Championship Qual. UEFA H",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd7.php"
+                "https://sportzonline.si/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-greece-vs-bulgaria-live-stream",
-            "id": "live-greece-vs-bulgaria-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4iCrrqHfq9zLlhOt34o7Pg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450768/match_banners/live-greece-vs-bulgaria-live-stream.png"
-        },
-        {
-            "homeTeam": "Luxembourg",
-            "awayTeam": "Ireland Republic",
-            "time": "2025-06-10T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Int. Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-luxembourg-vs-ireland-republic-live-stream",
-            "id": "live-luxembourg-vs-ireland-republic-live-stream",
+            "eventUrl": "https://livesports808.top/watch/live-romania-vs-cyprus-live-stream",
+            "id": "live-romania-vs-cyprus-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443848/match_banners/live-luxembourg-vs-ireland-republic-live-stream.png"
-        },
-        {
-            "homeTeam": "Netherlands",
-            "awayTeam": "Malta",
-            "time": "2025-06-10T19:45:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA G",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-netherlands-vs-malta-live-stream",
-            "id": "live-netherlands-vs-malta-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/CBxrCxiBkSddrBEWZWQNzw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450769/match_banners/live-netherlands-vs-malta-live-stream.png"
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443849/match_banners/live-romania-vs-cyprus-live-stream.png"
         },
         {
             "homeTeam": "England",
@@ -589,20 +363,38 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450770/match_banners/live-england-vs-senegal-live-stream.png"
         },
         {
-            "homeTeam": "San Marino",
-            "awayTeam": "Austria",
+            "homeTeam": "Netherlands",
+            "awayTeam": "Malta",
             "time": "2025-06-10T19:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Europe: World Championship Qual. UEFA H",
+            "competition": "Europe: World Championship Qual. UEFA G",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd3.php"
+                "https://sportzonline.si/channels/hd/hd4.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-san-marino-vs-austria-live-stream",
-            "id": "live-san-marino-vs-austria-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lvpnX8YUQiMuVH7jKrtIaQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HwYB-wsdd6M2WmLXSkd6Sg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450771/match_banners/live-san-marino-vs-austria-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-netherlands-vs-malta-live-stream",
+            "id": "live-netherlands-vs-malta-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/CBxrCxiBkSddrBEWZWQNzw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749450769/match_banners/live-netherlands-vs-malta-live-stream.png"
+        },
+        {
+            "homeTeam": "Luxembourg",
+            "awayTeam": "Ireland Republic",
+            "time": "2025-06-10T19:45:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Int. Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-luxembourg-vs-ireland-republic-live-stream",
+            "id": "live-luxembourg-vs-ireland-republic-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443848/match_banners/live-luxembourg-vs-ireland-republic-live-stream.png"
         },
         {
             "homeTeam": "Bolivia",
@@ -777,22 +569,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443858/match_banners/live-brazil-vs-paraguay-live-stream.png"
         },
         {
-            "homeTeam": "El Salvador",
-            "awayTeam": "Suriname",
-            "time": "2025-06-11T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: World Cup Qualification, CONCACAF 2nd round, Group F",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-el-salvador-vs-suriname-live-stream",
-            "id": "live-el-salvador-vs-suriname-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443859/match_banners/live-el-salvador-vs-suriname-live-stream.png"
-        },
-        {
             "homeTeam": "Costa Rica",
             "awayTeam": "Trinidad and Tobago",
             "time": "2025-06-11T02:00:00+01:00",
@@ -807,6 +583,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/175px-Costa_Rica_national_football_team_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/250px-Flag_of_Trinidad_and_Tobago.svg.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443860/match_banners/live-costa-rica-vs-trinidad-and-tobago-live-stream.png"
+        },
+        {
+            "homeTeam": "El Salvador",
+            "awayTeam": "Suriname",
+            "time": "2025-06-11T02:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "North & Central America: World Cup Qualification, CONCACAF 2nd round, Group F",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-el-salvador-vs-suriname-live-stream",
+            "id": "live-el-salvador-vs-suriname-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749443859/match_banners/live-el-salvador-vs-suriname-live-stream.png"
         },
         {
             "homeTeam": "Peru",
