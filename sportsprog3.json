@@ -6,7 +6,7 @@
             "time": "2025-06-13T13:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Tournoi Maurice Revello, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
@@ -23,7 +23,7 @@
             "time": "2025-06-13T16:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U19 European Championship, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -56,7 +56,7 @@
             "time": "2025-06-13T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U19 European Championship, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -72,7 +72,7 @@
             "time": "2025-06-13T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br5.php"
             ],
@@ -88,7 +88,7 @@
             "time": "2025-06-14T00:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "League Events",
             "urls": [
                 "https://sportzonline.si/channels/bra/br4.php"
             ],
@@ -99,44 +99,12 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702230/match_banners/live-futsal-foz-cataratas-vs-magnus-futsal-live-stream.png"
         },
         {
-            "homeTeam": "Deportes Limache",
-            "awayTeam": "Uni\u00f3n La Calera",
-            "time": "2025-06-14T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-deportes-limache-vs-uni-n-la-calera-live-stream",
-            "id": "live-deportes-limache-vs-uni-n-la-calera-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Deportes_Limache.png/250px-Deportes_Limache.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Uni%C3%B3n_La_Calera.png/250px-Uni%C3%B3n_La_Calera.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702232/match_banners/live-deportes-limache-vs-uni-n-la-calera-live-stream.png"
-        },
-        {
-            "homeTeam": "Palmeiras W",
-            "awayTeam": "Fluminense W",
-            "time": "2025-06-14T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palmeiras-w-vs-fluminense-w-live-stream",
-            "id": "live-palmeiras-w-vs-fluminense-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/250px-Palmeiras_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/120px-FFC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702232/match_banners/live-palmeiras-w-vs-fluminense-w-live-stream.png"
-        },
-        {
             "homeTeam": "Orense",
             "awayTeam": "Macar\u00e1",
             "time": "2025-06-14T01:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "League Events",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -147,12 +115,44 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702231/match_banners/live-orense-vs-macar-live-stream.png"
         },
         {
+            "homeTeam": "Palmeiras W",
+            "awayTeam": "Fluminense W",
+            "time": "2025-06-14T01:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Events",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palmeiras-w-vs-fluminense-w-live-stream",
+            "id": "live-palmeiras-w-vs-fluminense-w-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/250px-Palmeiras_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/120px-FFC_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702232/match_banners/live-palmeiras-w-vs-fluminense-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Deportes Limache",
+            "awayTeam": "Uni\u00f3n La Calera",
+            "time": "2025-06-14T01:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Chile: Liga de Primera",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-deportes-limache-vs-uni-n-la-calera-live-stream",
+            "id": "live-deportes-limache-vs-uni-n-la-calera-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Deportes_Limache.png/250px-Deportes_Limache.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Uni%C3%B3n_La_Calera.png/250px-Uni%C3%B3n_La_Calera.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749702232/match_banners/live-deportes-limache-vs-uni-n-la-calera-live-stream.png"
+        },
+        {
             "homeTeam": "Paysandu",
             "awayTeam": "Botafogo SP",
             "time": "2025-06-14T01:35:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -168,7 +168,7 @@
             "time": "2025-06-14T02:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Primera Nacional, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php"
             ],
@@ -184,7 +184,7 @@
             "time": "2025-06-14T03:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "League Events",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd9.php"
@@ -201,7 +201,7 @@
             "time": "2025-06-14T15:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U19 European Championship, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -217,7 +217,7 @@
             "time": "2025-06-14T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U21 European Championship, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -236,7 +236,7 @@
             "time": "2025-06-14T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U19 European Championship, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -247,30 +247,12 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749788774/match_banners/live-germany-u19-vs-netherlands-u19-live-stream.png"
         },
         {
-            "homeTeam": "Portugal U21",
-            "awayTeam": "Poland U21",
-            "time": "2025-06-14T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-portugal-u21-vs-poland-u21-live-stream",
-            "id": "live-portugal-u21-vs-poland-u21-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kit_left_arm_eng24h.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kit_left_arm_eng24h.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749788775/match_banners/live-portugal-u21-vs-poland-u21-live-stream.png"
-        },
-        {
             "homeTeam": "Slovakia U21",
             "awayTeam": "Italy U21",
             "time": "2025-06-14T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U21 European Championship, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd7.php",
                 "https://sportzonline.si/channels/hd/hd10.php",
@@ -288,7 +270,7 @@
             "time": "2025-06-14T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: U21 European Championship, Group C",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd4.php",
                 "https://sportzonline.si/channels/pt/sporttv2.php"
@@ -305,7 +287,7 @@
             "time": "2025-06-14T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -316,12 +298,30 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749788779/match_banners/live-crb-vs-goi-s-live-stream.png"
         },
         {
+            "homeTeam": "Portugal U21",
+            "awayTeam": "Poland U21",
+            "time": "2025-06-14T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: U21 European Championship, Group C",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-portugal-u21-vs-poland-u21-live-stream",
+            "id": "live-portugal-u21-vs-poland-u21-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kit_left_arm_eng24h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kit_left_arm_eng24h.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1749788775/match_banners/live-portugal-u21-vs-poland-u21-live-stream.png"
+        },
+        {
             "homeTeam": "St. Louis City",
             "awayTeam": "LA Galaxy",
             "time": "2025-06-14T21:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "League Events",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
@@ -353,7 +353,7 @@
             "time": "2025-06-15T00:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br3.php"
             ],
@@ -369,7 +369,7 @@
             "time": "2025-06-15T01:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -391,7 +391,7 @@
             "time": "2025-06-15T03:15:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "North & Central America: CONCACAF Gold Cup, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd11.php",
