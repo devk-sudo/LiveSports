@@ -1,251 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Mamelodi Sundowns",
-            "awayTeam": "Borussia Dortmund",
-            "time": "2025-06-21T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group F",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-mamelodi-sundowns-vs-borussia-dortmund-live-stream",
-            "id": "live-mamelodi-sundowns-vs-borussia-dortmund-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mamelodi_Sundowns_F.C.svg/250px-Mamelodi_Sundowns_F.C.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449686/match_banners/live-mamelodi-sundowns-vs-borussia-dortmund-live-stream.png"
-        },
-        {
-            "homeTeam": "Portugal U21",
-            "awayTeam": "TBD",
-            "time": "2025-06-21T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Events",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-portugal-u21-vs-tbd-live-stream",
-            "id": "live-portugal-u21-vs-tbd-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kit_left_arm_eng24h.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449684/match_banners/live-portugal-u21-vs-tbd-live-stream.png"
-        },
-        {
-            "homeTeam": "Avaí",
-            "awayTeam": "Athletico-PR",
-            "time": "2025-06-21T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileirão Série B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-ava-vs-athletico-pr-live-stream",
-            "id": "live-ava-vs-athletico-pr-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Avai_FC_%2805-E%29_-_SC.svg/250px-Avai_FC_%2805-E%29_-_SC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Athletico_Paranaense_%28Logo_2019%29.svg/160px-Athletico_Paranaense_%28Logo_2019%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449690/match_banners/live-ava-vs-athletico-pr-live-stream.png"
-        },
-        {
-            "homeTeam": "Internazionale",
-            "awayTeam": "Urawa Reds",
-            "time": "2025-06-21T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Events",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br1.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-internazionale-vs-urawa-reds-live-stream",
-            "id": "live-internazionale-vs-urawa-reds-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/250px-FC_Internazionale_Milano_2021.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Urawa_Red_Diamonds_logo.svg/250px-Urawa_Red_Diamonds_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449689/match_banners/live-internazionale-vs-urawa-reds-live-stream.png"
-        },
-        {
-            "homeTeam": "Real Oviedo",
-            "awayTeam": "Mirandés",
-            "time": "2025-06-21T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Spain: LaLiga 2, Promotion Playoffs",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/eleven2.php",
-                "https://sportzonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-real-oviedo-vs-mirand-s-live-stream",
-            "id": "live-real-oviedo-vs-mirand-s-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/130px-Real_Oviedo_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CD_Mirand%C3%A9s_logo.svg/180px-CD_Mirand%C3%A9s_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449687/match_banners/live-real-oviedo-vs-mirand-s-live-stream.png"
-        },
-        {
-            "homeTeam": "Detroit City",
-            "awayTeam": "Miami FC",
-            "time": "2025-06-21T21:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "USA: USL Championship",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-detroit-city-vs-miami-fc-live-stream",
-            "id": "live-detroit-city-vs-miami-fc-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Detroit_City_FC_logo.svg/280px-Detroit_City_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Miami_FC_logo.svg/150px-Miami_FC_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750447981/match_banners/live-detroit-city-vs-miami-fc-live-stream.png"
-        },
-        {
-            "homeTeam": "Remo",
-            "awayTeam": "Paysandu",
-            "time": "2025-06-21T22:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileirão Série B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-remo-vs-paysandu-live-stream",
-            "id": "live-remo-vs-paysandu-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/0/09/Remo_Stars_F.C.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Paysandu_Sport_Club_logo.svg/250px-Paysandu_Sport_Club_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449692/match_banners/live-remo-vs-paysandu-live-stream.png"
-        },
-        {
-            "homeTeam": "Fluminense",
-            "awayTeam": "Ulsan",
-            "time": "2025-06-21T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group F",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br1.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-fluminense-vs-ulsan-live-stream",
-            "id": "live-fluminense-vs-ulsan-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Ulsan_Hyundai_FC.svg/250px-Ulsan_Hyundai_FC.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449693/match_banners/live-fluminense-vs-ulsan-live-stream.png"
-        },
-        {
-            "homeTeam": "Curaçao",
-            "awayTeam": "Canada",
-            "time": "2025-06-22T00:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cura-ao-vs-canada-live-stream",
-            "id": "live-cura-ao-vs-canada-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Curacao_Football_Federation.svg/250px-Curacao_Football_Federation.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/JoffreyReynolds.jpg/250px-JoffreyReynolds.jpg",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449694/match_banners/live-cura-ao-vs-canada-live-stream.png"
-        },
-        {
-            "homeTeam": "Ferroviária",
-            "awayTeam": "CRB",
-            "time": "2025-06-22T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileirão Série B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-ferrovi-ria-vs-crb-live-stream",
-            "id": "live-ferrovi-ria-vs-crb-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Escudo_Associa%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Esportes.png/250px-Escudo_Associa%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Esportes.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/40px-Flag_of_Algeria.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449696/match_banners/live-ferrovi-ria-vs-crb-live-stream.png"
-        },
-        {
-            "homeTeam": "Kansas City W",
-            "awayTeam": "Angel City W",
-            "time": "2025-06-22T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Events",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-kansas-city-w-vs-angel-city-w-live-stream",
-            "id": "live-kansas-city-w-vs-angel-city-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sporting_Kansas_City_logo.svg/190px-Sporting_Kansas_City_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Angel_City_FC_logo.svg/160px-Angel_City_FC_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449697/match_banners/live-kansas-city-w-vs-angel-city-w-live-stream.png"
-        },
-        {
-            "homeTeam": "River Plate",
-            "awayTeam": "Monterrey",
-            "time": "2025-06-22T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group E",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-river-plate-vs-monterrey-live-stream",
-            "id": "live-river-plate-vs-monterrey-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449698/match_banners/live-river-plate-vs-monterrey-live-stream.png"
-        },
-        {
-            "homeTeam": "Honduras",
-            "awayTeam": "El Salvador",
-            "time": "2025-06-22T03:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-honduras-vs-el-salvador-live-stream",
-            "id": "live-honduras-vs-el-salvador-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Honduras_football_crest.svg/250px-Honduras_football_crest.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449699/match_banners/live-honduras-vs-el-salvador-live-stream.png"
-        },
-        {
             "homeTeam": "Juventus",
             "awayTeam": "Wydad Casablanca",
             "time": "2025-06-22T17:00:00+01:00",
@@ -442,23 +197,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750447998/match_banners/live-manchester-city-vs-al-ain-live-stream.png"
         },
         {
-            "homeTeam": "Dominican Republic",
-            "awayTeam": "Suriname",
-            "time": "2025-06-23T03:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-dominican-republic-vs-suriname-live-stream",
-            "id": "live-dominican-republic-vs-suriname-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Seleccion_Dominican_de_Futbol.png/250px-Seleccion_Dominican_de_Futbol.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449715/match_banners/live-dominican-republic-vs-suriname-live-stream.png"
-        },
-        {
             "homeTeam": "Mexico",
             "awayTeam": "Costa Rica",
             "time": "2025-06-23T03:00:00+01:00",
@@ -476,6 +214,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/250px-Mexico_national_football_team_crest.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/175px-Costa_Rica_national_football_team_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449716/match_banners/live-mexico-vs-costa-rica-live-stream.png"
+        },
+        {
+            "homeTeam": "Dominican Republic",
+            "awayTeam": "Suriname",
+            "time": "2025-06-23T03:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "North & Central America: CONCACAF Gold Cup, Group A",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-dominican-republic-vs-suriname-live-stream",
+            "id": "live-dominican-republic-vs-suriname-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Seleccion_Dominican_de_Futbol.png/250px-Seleccion_Dominican_de_Futbol.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449715/match_banners/live-dominican-republic-vs-suriname-live-stream.png"
         }
     ]
 }
