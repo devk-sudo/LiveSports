@@ -40,22 +40,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449707/match_banners/live-denmark-u21-vs-france-u21-live-stream.png"
         },
         {
-            "homeTeam": "Coritiba",
-            "awayTeam": "Cuiabá",
-            "time": "2025-06-22T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileirão Série B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-coritiba-vs-cuiab-live-stream",
-            "id": "live-coritiba-vs-cuiab-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coritiba_FBC_%282011%29_-_PR.svg/195px-Coritiba_FBC_%282011%29_-_PR.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cuiab%C3%A1_EC.svg/165px-Cuiab%C3%A1_EC.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449702/match_banners/live-coritiba-vs-cuiab-live-stream.png"
-        },
-        {
             "homeTeam": "Real Madrid",
             "awayTeam": "Pachuca",
             "time": "2025-06-22T20:00:00+01:00",
@@ -80,6 +64,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/250px-Pachuca_Tuzos_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449705/match_banners/live-real-madrid-vs-pachuca-live-stream.png"
+        },
+        {
+            "homeTeam": "Coritiba",
+            "awayTeam": "Cuiabá",
+            "time": "2025-06-22T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Brasileirão Série B",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-coritiba-vs-cuiab-live-stream",
+            "id": "live-coritiba-vs-cuiab-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coritiba_FBC_%282011%29_-_PR.svg/195px-Coritiba_FBC_%282011%29_-_PR.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cuiab%C3%A1_EC.svg/165px-Cuiab%C3%A1_EC.svg.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449702/match_banners/live-coritiba-vs-cuiab-live-stream.png"
         },
         {
             "homeTeam": "Amazonas",
@@ -121,23 +121,6 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449709/match_banners/live-salzburg-vs-al-hilal-live-stream.png"
         },
         {
-            "homeTeam": "Saudi Arabia",
-            "awayTeam": "Trinidad and Tobago",
-            "time": "2025-06-23T00:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group D",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-saudi-arabia-vs-trinidad-and-tobago-live-stream",
-            "id": "live-saudi-arabia-vs-trinidad-and-tobago-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Majed_Abdullah_in_Asia_Cup_1984.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/250px-Flag_of_Trinidad_and_Tobago.svg.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449711/match_banners/live-saudi-arabia-vs-trinidad-and-tobago-live-stream.png"
-        },
-        {
             "homeTeam": "USA",
             "awayTeam": "Haiti",
             "time": "2025-06-23T00:00:00+01:00",
@@ -155,6 +138,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/150px-United_States_Soccer_Federation_logo_2016.svg.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449712/match_banners/live-usa-vs-haiti-live-stream.png"
+        },
+        {
+            "homeTeam": "Saudi Arabia",
+            "awayTeam": "Trinidad and Tobago",
+            "time": "2025-06-23T00:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "North & Central America: CONCACAF Gold Cup, Group D",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-saudi-arabia-vs-trinidad-and-tobago-live-stream",
+            "id": "live-saudi-arabia-vs-trinidad-and-tobago-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Majed_Abdullah_in_Asia_Cup_1984.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/250px-Flag_of_Trinidad_and_Tobago.svg.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449711/match_banners/live-saudi-arabia-vs-trinidad-and-tobago-live-stream.png"
         },
         {
             "homeTeam": "Atlético Goianiense",
@@ -197,6 +197,23 @@
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750447998/match_banners/live-manchester-city-vs-al-ain-live-stream.png"
         },
         {
+            "homeTeam": "Dominican Republic",
+            "awayTeam": "Suriname",
+            "time": "2025-06-23T03:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "North & Central America: CONCACAF Gold Cup, Group A",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-dominican-republic-vs-suriname-live-stream",
+            "id": "live-dominican-republic-vs-suriname-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Seleccion_Dominican_de_Futbol.png/250px-Seleccion_Dominican_de_Futbol.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
+            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449715/match_banners/live-dominican-republic-vs-suriname-live-stream.png"
+        },
+        {
             "homeTeam": "Mexico",
             "awayTeam": "Costa Rica",
             "time": "2025-06-23T03:00:00+01:00",
@@ -214,23 +231,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/250px-Mexico_national_football_team_crest.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/175px-Costa_Rica_national_football_team_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449716/match_banners/live-mexico-vs-costa-rica-live-stream.png"
-        },
-        {
-            "homeTeam": "Dominican Republic",
-            "awayTeam": "Suriname",
-            "time": "2025-06-23T03:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group A",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-dominican-republic-vs-suriname-live-stream",
-            "id": "live-dominican-republic-vs-suriname-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Seleccion_Dominican_de_Futbol.png/250px-Seleccion_Dominican_de_Futbol.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SVB_Eerste_Divisie.png",
-            "eventBanner": "https://res.cloudinary.com/doj1id5u6/image/upload/v1750449715/match_banners/live-dominican-republic-vs-suriname-live-stream.png"
         }
     ]
 }
