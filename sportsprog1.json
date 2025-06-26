@@ -1,152 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Los Angeles FC",
-            "awayTeam": "Flamengo",
-            "time": "2025-06-25T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group D",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-los-angeles-fc-vs-flamengo-live-stream",
-            "id": "live-los-angeles-fc-vs-flamengo-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Los_Angeles_Football_Club.svg/160px-Los_Angeles_Football_Club.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750739133/match_banners/live-los-angeles-fc-vs-flamengo-live-stream.png"
-        },
-        {
-            "homeTeam": "ES Tunis",
-            "awayTeam": "Chelsea",
-            "time": "2025-06-25T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-es-tunis-vs-chelsea-live-stream",
-            "id": "live-es-tunis-vs-chelsea-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Esp%C3%A9rance_Sportive_de_Tunis_logo.png/250px-Esp%C3%A9rance_Sportive_de_Tunis_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/210px-Chelsea_FC.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750739133/match_banners/live-es-tunis-vs-chelsea-live-stream.png"
-        },
-        {
-            "homeTeam": "Honduras",
-            "awayTeam": "Cura\u00e7ao",
-            "time": "2025-06-25T03:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-honduras-vs-cura-ao-live-stream",
-            "id": "live-honduras-vs-cura-ao-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Honduras_football_crest.svg/250px-Honduras_football_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Curacao_Football_Federation.svg/250px-Curacao_Football_Federation.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750739135/match_banners/live-honduras-vs-cura-ao-live-stream.png"
-        },
-        {
-            "homeTeam": "Canad\u00e1",
-            "awayTeam": "El Salvador",
-            "time": "2025-06-25T03:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "North & Central America: CONCACAF Gold Cup, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-canad-vs-el-salvador-live-stream",
-            "id": "live-canad-vs-el-salvador-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750739134/match_banners/live-canad-vs-el-salvador-live-stream.png"
-        },
-        {
-            "homeTeam": "England U21",
-            "awayTeam": "Netherlands U21",
-            "time": "2025-06-25T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: U21 European Championship, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-england-u21-vs-netherlands-u21-live-stream",
-            "id": "live-england-u21-vs-netherlands-u21-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750829086/match_banners/live-england-u21-vs-netherlands-u21-live-stream.png"
-        },
-        {
-            "homeTeam": "Borussia Dortmund",
-            "awayTeam": "Ulsan",
-            "time": "2025-06-25T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group F",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-borussia-dortmund-vs-ulsan-live-stream",
-            "id": "live-borussia-dortmund-vs-ulsan-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Dcoh4d9XHty02QM4n4CSog_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750829087/match_banners/live-borussia-dortmund-vs-ulsan-live-stream.png"
-        },
-        {
-            "homeTeam": "Mamelodi Sundowns",
-            "awayTeam": "Fluminense",
-            "time": "2025-06-25T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group F",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-mamelodi-sundowns-vs-fluminense-live-stream",
-            "id": "live-mamelodi-sundowns-vs-fluminense-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mamelodi_Sundowns_F.C.svg/250px-Mamelodi_Sundowns_F.C.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825665/match_banners/live-mamelodi-sundowns-vs-fluminense-live-stream.png"
-        },
-        {
-            "homeTeam": "Germany U21",
-            "awayTeam": "France U21",
-            "time": "2025-06-25T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: U21 European Championship, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-germany-u21-vs-france-u21-live-stream",
-            "id": "live-germany-u21-vs-france-u21-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750829088/match_banners/live-germany-u21-vs-france-u21-live-stream.png"
-        },
-        {
             "homeTeam": "CF Montr\u00e9al",
             "awayTeam": "Cincinnati",
             "time": "2025-06-26T00:30:00+01:00",
@@ -290,6 +144,23 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825671/match_banners/live-crb-vs-am-rica-mineiro-live-stream.png"
         },
         {
+            "homeTeam": "Al Hilal",
+            "awayTeam": "Pachuca",
+            "time": "2025-06-27T02:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "FIFA Club World Cup, Group H",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-al-hilal-vs-pachuca-live-stream",
+            "id": "live-al-hilal-vs-pachuca-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/250px-Al_Hilal_SFC_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/170px-Pachuca_Tuzos_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825672/match_banners/live-al-hilal-vs-pachuca-live-stream.png"
+        },
+        {
             "homeTeam": "Salzburg",
             "awayTeam": "Real Madrid",
             "time": "2025-06-27T02:00:00+01:00",
@@ -310,23 +181,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/250px-FC_Red_Bull_Salzburg_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825671/match_banners/live-salzburg-vs-real-madrid-live-stream.png"
-        },
-        {
-            "homeTeam": "Al Hilal",
-            "awayTeam": "Pachuca",
-            "time": "2025-06-27T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group H",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-al-hilal-vs-pachuca-live-stream",
-            "id": "live-al-hilal-vs-pachuca-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/250px-Al_Hilal_SFC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/170px-Pachuca_Tuzos_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825672/match_banners/live-al-hilal-vs-pachuca-live-stream.png"
         }
     ]
 }
