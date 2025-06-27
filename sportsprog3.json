@@ -1,133 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "CF Montr\u00e9al",
-            "awayTeam": "Cincinnati",
-            "time": "2025-06-26T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "USA: MLS",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cf-montr-al-vs-cincinnati-live-stream",
-            "id": "live-cf-montr-al-vs-cincinnati-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/CF_Montreal_logo_2023.svg/250px-CF_Montreal_logo_2023.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FC_Cincinnati_primary_logo_2018.svg/250px-FC_Cincinnati_primary_logo_2018.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825665/match_banners/live-cf-montr-al-vs-cincinnati-live-stream.png"
-        },
-        {
-            "homeTeam": "Internazionale",
-            "awayTeam": "River Plate",
-            "time": "2025-06-26T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group E",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-internazionale-vs-river-plate-live-stream",
-            "id": "live-internazionale-vs-river-plate-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/250px-FC_Internazionale_Milano_2021.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825666/match_banners/live-internazionale-vs-river-plate-live-stream.png"
-        },
-        {
-            "homeTeam": "Urawa Reds",
-            "awayTeam": "Monterrey",
-            "time": "2025-06-26T02:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group E",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-urawa-reds-vs-monterrey-live-stream",
-            "id": "live-urawa-reds-vs-monterrey-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/F-09rxdgECid61-Rj8Uxrw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/LXZ8fEgzf0_FwSyq15buPw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750829089/match_banners/live-urawa-reds-vs-monterrey-live-stream.png"
-        },
-        {
-            "homeTeam": "Vancouver Whitecaps",
-            "awayTeam": "San Diego",
-            "time": "2025-06-26T03:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "USA: MLS",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-vancouver-whitecaps-vs-san-diego-live-stream",
-            "id": "live-vancouver-whitecaps-vs-san-diego-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Vancouver_Whitecaps_FC_logo.svg/250px-Vancouver_Whitecaps_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/San_Diego_FC_logo.svg/250px-San_Diego_FC_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825667/match_banners/live-vancouver-whitecaps-vs-san-diego-live-stream.png"
-        },
-        {
-            "homeTeam": "Spain U19",
-            "awayTeam": "Netherlands U19",
-            "time": "2025-06-26T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: U19 European Championship, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-spain-u19-vs-netherlands-u19-live-stream",
-            "id": "live-spain-u19-vs-netherlands-u19-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750829090/match_banners/live-spain-u19-vs-netherlands-u19-live-stream.png"
-        },
-        {
-            "homeTeam": "Wydad Casablanca",
-            "awayTeam": "Al Ain",
-            "time": "2025-06-26T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group G",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-wydad-casablanca-vs-al-ain-live-stream",
-            "id": "live-wydad-casablanca-vs-al-ain-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Wydad_AC_crest_%282022%29.svg/250px-Wydad_AC_crest_%282022%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Al_Ain_FC_logo_2024.png/250px-Al_Ain_FC_logo_2024.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825670/match_banners/live-wydad-casablanca-vs-al-ain-live-stream.png"
-        },
-        {
-            "homeTeam": "Juventus",
-            "awayTeam": "Manchester City",
-            "time": "2025-06-26T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA Club World Cup, Group G",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd4.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd7.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-juventus-vs-manchester-city-live-stream",
-            "id": "live-juventus-vs-manchester-city-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/130px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/250px-Manchester_City_FC_badge.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825669/match_banners/live-juventus-vs-manchester-city-live-stream.png"
-        },
-        {
             "homeTeam": "CRB",
             "awayTeam": "Am\u00e9rica Mineiro",
             "time": "2025-06-27T01:35:00+01:00",
@@ -181,6 +54,92 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/250px-FC_Red_Bull_Salzburg_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750825671/match_banners/live-salzburg-vs-real-madrid-live-stream.png"
+        },
+        {
+            "homeTeam": "Spain W",
+            "awayTeam": "Japan W",
+            "time": "2025-06-27T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/pt/sporttv3.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-spain-w-vs-japan-w-live-stream",
+            "id": "live-spain-w-vs-japan-w-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/145px-Spain_national_football_team_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Meiji_Yasuda_J1_League_logo.svg/250px-Meiji_Yasuda_J1_League_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750998189/match_banners/live-spain-w-vs-japan-w-live-stream.png"
+        },
+        {
+            "homeTeam": "France W",
+            "awayTeam": "Brazil W",
+            "time": "2025-06-27T20:10:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd4.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-france-w-vs-brazil-w-live-stream",
+            "id": "live-france-w-vs-brazil-w-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/170px-Brazilian_Football_Confederation_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750998189/match_banners/live-france-w-vs-brazil-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Crici\u00fama",
+            "awayTeam": "Ava\u00ed",
+            "time": "2025-06-27T23:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-crici-ma-vs-ava-live-stream",
+            "id": "live-crici-ma-vs-ava-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EscudoCriciumaEC.svg/250px-EscudoCriciumaEC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Avai_FC_%2805-E%29_-_SC.svg/250px-Avai_FC_%2805-E%29_-_SC.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750998190/match_banners/live-crici-ma-vs-ava-live-stream.png"
+        },
+        {
+            "homeTeam": "Belgrano",
+            "awayTeam": "Defensores de Belgrano",
+            "time": "2025-06-28T01:10:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/pt/sporttv3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-belgrano-vs-defensores-de-belgrano-live-stream",
+            "id": "live-belgrano-vs-defensores-de-belgrano-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png/250px-Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Defensores_de_Belgrano_Logo.svg/250px-Defensores_de_Belgrano_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750998191/match_banners/live-belgrano-vs-defensores-de-belgrano-live-stream.png"
+        },
+        {
+            "homeTeam": "Pacific",
+            "awayTeam": "Vancouver FC",
+            "time": "2025-06-28T03:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-pacific-vs-vancouver-fc-live-stream",
+            "id": "live-pacific-vs-vancouver-fc-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Pacific_FC_logo.svg/130px-Pacific_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Vancouver_FC_logo.png/330px-Vancouver_FC_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1750998192/match_banners/live-pacific-vs-vancouver-fc-live-stream.png"
         }
     ]
 }
