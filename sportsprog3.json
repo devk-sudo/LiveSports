@@ -24,7 +24,7 @@
             "time": "2025-06-29T16:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
@@ -35,12 +35,29 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171493/match_banners/live-levski-sofia-vs-montana-live-stream.png"
         },
         {
+            "homeTeam": "England W",
+            "awayTeam": "Jamaica W",
+            "time": "2025-06-29T17:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "International Friendly Games, Women",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-england-w-vs-jamaica-w-live-stream",
+            "id": "live-england-w-vs-jamaica-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4HCKfsNJNHDY-vWSEzLbeQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751175144/match_banners/live-england-w-vs-jamaica-w-live-stream.png"
+        },
+        {
             "homeTeam": "PSG",
             "awayTeam": "Inter Miami",
             "time": "2025-06-29T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd2.php",
@@ -59,29 +76,12 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171494/match_banners/live-psg-vs-inter-miami-live-stream.png"
         },
         {
-            "homeTeam": "England W",
-            "awayTeam": "Jamaica W",
-            "time": "2025-06-29T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-england-w-vs-jamaica-w-live-stream",
-            "id": "live-england-w-vs-jamaica-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/250px-Jamaica_FA.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171495/match_banners/live-england-w-vs-jamaica-w-live-stream.png"
-        },
-        {
             "homeTeam": "Athletic Club",
             "awayTeam": "Remo",
             "time": "2025-06-29T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br5.php"
             ],
@@ -92,12 +92,30 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171495/match_banners/live-athletic-club-vs-remo-live-stream.png"
         },
         {
+            "homeTeam": "Canada",
+            "awayTeam": "Guatemala",
+            "time": "2025-06-29T21:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "North & Central America: CONCACAF Gold Cup, Knockout stage",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-canada-vs-guatemala-live-stream",
+            "id": "live-canada-vs-guatemala-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/_Ra0NbQI3irthBNkSNokUQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751175145/match_banners/live-canada-vs-guatemala-live-stream.png"
+        },
+        {
             "homeTeam": "Flamengo",
             "awayTeam": "Bayern M\u00fcnchen",
             "time": "2025-06-29T21:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php",
                 "https://sportzonline.si/channels/hd/hd3.php",
@@ -115,38 +133,20 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171496/match_banners/live-flamengo-vs-bayern-m-nchen-live-stream.png"
         },
         {
-            "homeTeam": "Canada",
-            "awayTeam": "Guatemala",
-            "time": "2025-06-29T21:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-canada-vs-guatemala-live-stream",
-            "id": "live-canada-vs-guatemala-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/JoffreyReynolds.jpg/250px-JoffreyReynolds.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Carlos_Ruiz.JPG/250px-Carlos_Ruiz.JPG",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171497/match_banners/live-canada-vs-guatemala-live-stream.png"
-        },
-        {
             "homeTeam": "Ludogorets",
             "awayTeam": "K\u00f8benhavn",
             "time": "2025-06-29T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ludogorets-vs-k-benhavn-live-stream",
             "id": "live-ludogorets-vs-k-benhavn-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/PFC_Ludogorets_Razgrad_logo.png/250px-PFC_Ludogorets_Razgrad_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/FC_Copenhagen_logo.svg/250px-FC_Copenhagen_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171497/match_banners/live-ludogorets-vs-k-benhavn-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/MF7-Xe1ZaOzHqWIWqsTQbA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/FjlPNK4kZUDzQp5-E3PAJg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751175146/match_banners/live-ludogorets-vs-k-benhavn-live-stream.png"
         },
         {
             "homeTeam": "Chapecoense",
@@ -154,15 +154,15 @@
             "time": "2025-06-29T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br6.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-chapecoense-vs-goi-s-live-stream",
             "id": "live-chapecoense-vs-goi-s-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.png/250px-Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Goi%C3%A1s_Esporte_Clube_logo.svg/250px-Goi%C3%A1s_Esporte_Clube_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171498/match_banners/live-chapecoense-vs-goi-s-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751175147/match_banners/live-chapecoense-vs-goi-s-live-stream.png"
         },
         {
             "homeTeam": "USA",
@@ -170,7 +170,7 @@
             "time": "2025-06-30T00:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "North & Central America: CONCACAF Gold Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd11.php",
@@ -179,9 +179,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-usa-vs-costa-rica-live-stream",
             "id": "live-usa-vs-costa-rica-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/150px-United_States_Soccer_Federation_logo_2016.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/175px-Costa_Rica_national_football_team_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751171499/match_banners/live-usa-vs-costa-rica-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751175148/match_banners/live-usa-vs-costa-rica-live-stream.png"
         }
     ]
 }
