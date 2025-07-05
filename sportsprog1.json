@@ -76,7 +76,7 @@
             "time": "2025-07-05T13:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -92,7 +92,7 @@
             "time": "2025-07-05T13:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -108,7 +108,7 @@
             "time": "2025-07-05T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd2.php",
@@ -132,16 +132,15 @@
             "time": "2025-07-05T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group D",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-wales-w-vs-netherlands-w-live-stream",
             "id": "live-wales-w-vs-netherlands-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Netherlands_national_football_team_logo.svg/250px-Netherlands_national_football_team_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689247/match_banners/live-wales-w-vs-netherlands-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png"
         },
         {
             "homeTeam": "Corinthians Legends",
@@ -149,7 +148,7 @@
             "time": "2025-07-05T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Legends Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -160,29 +159,12 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689248/match_banners/live-corinthians-legends-vs-boca-juniors-legends-live-stream.png"
         },
         {
-            "homeTeam": "France W",
-            "awayTeam": "England W",
-            "time": "2025-07-05T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-france-w-vs-england-w-live-stream",
-            "id": "live-france-w-vs-england-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689248/match_banners/live-france-w-vs-england-w-live-stream.png"
-        },
-        {
             "homeTeam": "Remo",
             "awayTeam": "Cuiab\u00e1",
             "time": "2025-07-05T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br6.php"
             ],
@@ -193,12 +175,28 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689249/match_banners/live-remo-vs-cuiab-live-stream.png"
         },
         {
+            "homeTeam": "France W",
+            "awayTeam": "England W",
+            "time": "2025-07-05T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group D",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-france-w-vs-england-w-live-stream",
+            "id": "live-france-w-vs-england-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png"
+        },
+        {
             "homeTeam": "San Lorenzo",
             "awayTeam": "Quilmes",
             "time": "2025-07-05T20:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Copa Argentina",
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv5.php"
             ],
@@ -209,12 +207,28 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689250/match_banners/live-san-lorenzo-vs-quilmes-live-stream.png"
         },
         {
+            "homeTeam": "Vasco da Gama",
+            "awayTeam": "Wanderers",
+            "time": "2025-07-05T21:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-vasco-da-gama-vs-wanderers-live-stream",
+            "id": "live-vasco-da-gama-vs-wanderers-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/CR_Vasco_da_Gama_2021_logo.png/250px-CR_Vasco_da_Gama_2021_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kit_left_arm_wanderers_FC.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689251/match_banners/live-vasco-da-gama-vs-wanderers-live-stream.png"
+        },
+        {
             "homeTeam": "Real Madrid",
             "awayTeam": "Borussia Dortmund",
             "time": "2025-07-05T21:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd2.php",
@@ -233,28 +247,12 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689251/match_banners/live-real-madrid-vs-borussia-dortmund-live-stream.png"
         },
         {
-            "homeTeam": "Vasco da Gama",
-            "awayTeam": "Wanderers",
-            "time": "2025-07-05T21:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-vasco-da-gama-vs-wanderers-live-stream",
-            "id": "live-vasco-da-gama-vs-wanderers-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/CR_Vasco_da_Gama_2021_logo.png/250px-CR_Vasco_da_Gama_2021_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kit_left_arm_wanderers_FC.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689251/match_banners/live-vasco-da-gama-vs-wanderers-live-stream.png"
-        },
-        {
             "homeTeam": "Charlotte",
             "awayTeam": "Orlando City SC",
             "time": "2025-07-06T00:15:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "USA: MLS",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php"
             ],
@@ -270,7 +268,7 @@
             "time": "2025-07-06T00:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br5.php"
             ],
