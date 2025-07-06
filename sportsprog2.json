@@ -25,12 +25,16 @@
             "competition": "Indonesia President Cup",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-rangers-vs-club-brugge-live-stream",
             "id": "live-rangers-vs-club-brugge-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/250px-Oxford_United_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/250px-BRI_Liga_1.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/250px-BRI_Liga_1.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751799347/match_banners/live-rangers-vs-club-brugge-live-stream.png"
         },
         {
             "homeTeam": "Rangers",
