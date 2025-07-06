@@ -38,15 +38,15 @@
             "time": "2025-07-06T12:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-vfb-oldenburg-vs-hamburger-sv-live-stream",
             "id": "live-vfb-oldenburg-vs-hamburger-sv-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/VfB_Oldenburg.svg/250px-VfB_Oldenburg.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/250px-Hamburger_SV_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776210/match_banners/live-vfb-oldenburg-vs-hamburger-sv-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/pXGTY2w4KfapEJN1ZJZsEw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/A8Hvwz1Z7e2PNuZer9yHGw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785402/match_banners/live-vfb-oldenburg-vs-hamburger-sv-live-stream.png"
         },
         {
             "homeTeam": "Rangers",
@@ -54,7 +54,7 @@
             "time": "2025-07-06T14:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
@@ -70,15 +70,15 @@
             "time": "2025-07-06T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-norway-w-vs-finland-w-live-stream",
             "id": "live-norway-w-vs-finland-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776212/match_banners/live-norway-w-vs-finland-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785403/match_banners/live-norway-w-vs-finland-w-live-stream.png"
         },
         {
             "homeTeam": "Pumas UNAM",
@@ -86,7 +86,7 @@
             "time": "2025-07-06T18:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -102,7 +102,7 @@
             "time": "2025-07-06T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly games",
             "urls": [
                 "https://sportzonline.si/channels/bra/br1.php"
             ],
@@ -118,16 +118,16 @@
             "time": "2025-07-06T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-switzerland-w-vs-iceland-w-live-stream",
             "id": "live-switzerland-w-vs-iceland-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/KR_Reykjav%C3%ADk.png/200px-KR_Reykjav%C3%ADk.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776214/match_banners/live-switzerland-w-vs-iceland-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785404/match_banners/live-switzerland-w-vs-iceland-w-live-stream.png"
         },
         {
             "homeTeam": "Botafogo SP",
@@ -135,7 +135,7 @@
             "time": "2025-07-06T22:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -151,7 +151,7 @@
             "time": "2025-07-06T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php"
             ],
@@ -167,7 +167,7 @@
             "time": "2025-07-07T00:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "North & Central America: CONCACAF Gold Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd10.php",
@@ -176,9 +176,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-usa-vs-mexico-live-stream",
             "id": "live-usa-vs-mexico-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/150px-United_States_Soccer_Federation_logo_2016.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/250px-Mexico_national_football_team_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776215/match_banners/live-usa-vs-mexico-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785404/match_banners/live-usa-vs-mexico-live-stream.png"
         },
         {
             "homeTeam": "Mazatl\u00e1n",
@@ -186,7 +186,7 @@
             "time": "2025-07-07T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Liga MX",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php"
             ],
@@ -202,7 +202,7 @@
             "time": "2025-07-07T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -211,9 +211,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-spain-w-vs-belgium-w-live-stream",
             "id": "live-spain-w-vs-belgium-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/145px-Spain_national_football_team_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cupfinal_Belgium_2018-19_before_kickoff.jpg/250px-Cupfinal_Belgium_2018-19_before_kickoff.jpg",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776216/match_banners/live-spain-w-vs-belgium-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785405/match_banners/live-spain-w-vs-belgium-w-live-stream.png"
         },
         {
             "homeTeam": "Portugal W",
@@ -221,7 +221,7 @@
             "time": "2025-07-07T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php",
                 "https://sportzonline.si/channels/hd/hd7.php",
@@ -229,9 +229,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-portugal-w-vs-italy-w-live-stream",
             "id": "live-portugal-w-vs-italy-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Primeira_Liga_204_Logo.png/250px-Primeira_Liga_204_Logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/145px-Genoa_CFC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776217/match_banners/live-portugal-w-vs-italy-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785406/match_banners/live-portugal-w-vs-italy-w-live-stream.png"
         }
     ]
 }
