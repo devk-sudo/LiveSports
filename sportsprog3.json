@@ -1,38 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Charlotte",
-            "awayTeam": "Orlando City SC",
-            "time": "2025-07-06T00:15:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "USA: MLS",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-charlotte-vs-orlando-city-sc-live-stream",
-            "id": "live-charlotte-vs-orlando-city-sc-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Charlotte_FC_logo.svg/210px-Charlotte_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Orlando_City_2014.svg/250px-Orlando_City_2014.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689252/match_banners/live-charlotte-vs-orlando-city-sc-live-stream.png"
-        },
-        {
-            "homeTeam": "Amazonas",
-            "awayTeam": "Athletico-PR",
-            "time": "2025-07-06T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-amazonas-vs-athletico-pr-live-stream",
-            "id": "live-amazonas-vs-athletico-pr-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Amazonas_Futebol_Clube.png/250px-Amazonas_Futebol_Clube.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Athletico_Paranaense_%28Logo_2019%29.svg/160px-Athletico_Paranaense_%28Logo_2019%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751689253/match_banners/live-amazonas-vs-athletico-pr-live-stream.png"
-        },
-        {
             "homeTeam": "VfB Oldenburg",
             "awayTeam": "Hamburger SV",
             "time": "2025-07-06T12:30:00+01:00",
@@ -47,6 +15,23 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/pXGTY2w4KfapEJN1ZJZsEw_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/A8Hvwz1Z7e2PNuZer9yHGw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785402/match_banners/live-vfb-oldenburg-vs-hamburger-sv-live-stream.png"
+        },
+        {
+            "homeTeam": "Oxford United",
+            "awayTeam": "Indonesia Super League All Stars",
+            "time": "2025-07-06T13:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia President Cup",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-rangers-vs-club-brugge-live-stream",
+            "id": "live-rangers-vs-club-brugge-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/250px-Oxford_United_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/250px-BRI_Liga_1.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751799347/match_banners/live-rangers-vs-club-brugge-live-stream.png"
         },
         {
             "homeTeam": "Rangers",
@@ -97,22 +82,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776212/match_banners/live-pumas-unam-vs-legan-s-live-stream.png"
         },
         {
-            "homeTeam": "Cruzeiro",
-            "awayTeam": "Banfield",
-            "time": "2025-07-06T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Club Friendly games",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-vs-banfield-live-stream",
-            "id": "live-cruzeiro-vs-banfield-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/130px-CA_Banfield_%282014%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776213/match_banners/live-cruzeiro-vs-banfield-live-stream.png"
-        },
-        {
             "homeTeam": "Switzerland W",
             "awayTeam": "Iceland W",
             "time": "2025-07-06T20:00:00+01:00",
@@ -128,6 +97,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751785404/match_banners/live-switzerland-w-vs-iceland-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Cruzeiro",
+            "awayTeam": "Banfield",
+            "time": "2025-07-06T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly games",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-vs-banfield-live-stream",
+            "id": "live-cruzeiro-vs-banfield-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/130px-CA_Banfield_%282014%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751776213/match_banners/live-cruzeiro-vs-banfield-live-stream.png"
         },
         {
             "homeTeam": "Botafogo SP",
