@@ -100,6 +100,7 @@
             "channel": "FooTV SPORT",
             "competition": "Indonesia President Cup",
             "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/hd/hd9.php",
                 "https://sportzonline.si/channels/hd/hd10.php",
                 "https://sportzonline.si/channels/hd/hd9.php",
@@ -141,7 +142,8 @@
             "eventUrl": "https://livesports808.top/watch/live-cork-city-vs-celtic-live-stream",
             "id": "live-cork-city-vs-celtic-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Cork-City-Football-Club-Crest.png/250px-Cork-City-Football-Club-Crest.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751921074/match_banners/live-cork-city-vs-celtic-live-stream.png"
         },
         {
             "homeTeam": "The New Saints",
@@ -156,7 +158,8 @@
             "eventUrl": "https://livesports808.top/watch/live-the-new-saints-vs-kendija-79-live-stream",
             "id": "live-the-new-saints-vs-kendija-79-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Vg57LwgKIsNTb-xPXLVdew_96x96.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KF_Shk%C3%ABndija_Logo.svg/250px-KF_Shk%C3%ABndija_Logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/KF_Shk%C3%ABndija_Logo.svg/250px-KF_Shk%C3%ABndija_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751921075/match_banners/live-the-new-saints-vs-kendija-79-live-stream.png"
         },
         {
             "homeTeam": "Poland W",
@@ -214,22 +217,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867481/match_banners/live-gr-mio-vs-s-o-jos-rs-live-stream.png"
         },
         {
-            "homeTeam": "Vitória",
-            "awayTeam": "Confiança",
-            "time": "2025-07-09T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Copa do Nordeste, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
-            "id": "live-vit-ria-vs-confian-a-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
-        },
-        {
             "homeTeam": "Cruzeiro U20",
             "awayTeam": "Fluminense U20",
             "time": "2025-07-09T00:30:00+01:00",
@@ -244,6 +231,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/R_NSTOVbF0Ptb_h8xN1Kmg_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/44OCs28VkAdZWJOY6htzVw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867482/match_banners/live-cruzeiro-u20-vs-fluminense-u20-live-stream.png"
+        },
+        {
+            "homeTeam": "Vitória",
+            "awayTeam": "Confiança",
+            "time": "2025-07-09T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Copa do Nordeste, Knockout stage",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
+            "id": "live-vit-ria-vs-confian-a-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
         }
     ]
 }
