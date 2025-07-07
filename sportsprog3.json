@@ -78,16 +78,16 @@
             "time": "2025-07-08T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group C",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-germany-w-vs-denmark-w-live-stream",
             "id": "live-germany-w-vs-denmark-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/250px-DFBEagle.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dansk_boldspil_union_logo.svg/250px-Dansk_boldspil_union_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862628/match_banners/live-germany-w-vs-denmark-w-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867479/match_banners/live-germany-w-vs-denmark-w-live-stream.png"
         },
         {
             "homeTeam": "Cork City",
@@ -95,7 +95,7 @@
             "time": "2025-07-08T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php"
             ],
@@ -111,7 +111,7 @@
             "time": "2025-07-08T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
@@ -122,12 +122,29 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862629/match_banners/live-the-new-saints-vs-kendija-79-live-stream.png"
         },
         {
+            "homeTeam": "Poland W",
+            "awayTeam": "Sweden W",
+            "time": "2025-07-08T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group C",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-poland-w-vs-sweden-w-live-stream",
+            "id": "live-poland-w-vs-sweden-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OkFlRvRsKMWb8Hk20L9Trw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867480/match_banners/live-poland-w-vs-sweden-w-live-stream.png"
+        },
+        {
             "homeTeam": "Fluminense",
             "awayTeam": "Chelsea",
             "time": "2025-07-08T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA Club World Cup, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php",
                 "https://sportzonline.si/channels/hd/hd4.php",
@@ -144,53 +161,20 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862630/match_banners/live-fluminense-vs-chelsea-live-stream.png"
         },
         {
-            "homeTeam": "Poland W",
-            "awayTeam": "Sweden W",
-            "time": "2025-07-08T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-poland-w-vs-sweden-w-live-stream",
-            "id": "live-poland-w-vs-sweden-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Herb_Polski.svg/250px-Herb_Polski.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862631/match_banners/live-poland-w-vs-sweden-w-live-stream.png"
-        },
-        {
             "homeTeam": "Gr\u00eamio",
             "awayTeam": "S\u00e3o Jos\u00e9-RS",
             "time": "2025-07-08T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Recopa Gaucha",
             "urls": [
                 "https://sportzonline.si/channels/bra/br4.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-gr-mio-vs-s-o-jos-rs-live-stream",
             "id": "live-gr-mio-vs-s-o-jos-rs-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/250px-Gremio_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862632/match_banners/live-gr-mio-vs-s-o-jos-rs-live-stream.png"
-        },
-        {
-            "homeTeam": "Cruzeiro U20",
-            "awayTeam": "Fluminense U20",
-            "time": "2025-07-09T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862633/match_banners/live-cruzeiro-u20-vs-fluminense-u20-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/byWetqZZ2A-mTz7AjWGS-A_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867481/match_banners/live-gr-mio-vs-s-o-jos-rs-live-stream.png"
         },
         {
             "homeTeam": "Vit\u00f3ria",
@@ -198,7 +182,7 @@
             "time": "2025-07-09T00:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Copa do Nordeste, Knockout stage",
             "urls": [
                 "https://sportzonline.si/channels/bra/br3.php"
             ],
@@ -207,6 +191,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
+        },
+        {
+            "homeTeam": "Cruzeiro U20",
+            "awayTeam": "Fluminense U20",
+            "time": "2025-07-09T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brasileiro Sub-20",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/R_NSTOVbF0Ptb_h8xN1Kmg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/44OCs28VkAdZWJOY6htzVw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867482/match_banners/live-cruzeiro-u20-vs-fluminense-u20-live-stream.png"
         }
     ]
 }
