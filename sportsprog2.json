@@ -134,47 +134,14 @@
             "time": "2025-07-08T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Recopa Gaucha",
+            "competition": "League Event",
             "urls": [
                 "https://sportzonline.si/channels/bra/br4.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-gr-mio-vs-s-o-jos-rs-live-stream",
             "id": "live-gr-mio-vs-s-o-jos-rs-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/byWetqZZ2A-mTz7AjWGS-A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867481/match_banners/live-gr-mio-vs-s-o-jos-rs-live-stream.png"
-        },
-        {
-            "homeTeam": "Cruzeiro U20",
-            "awayTeam": "Fluminense U20",
-            "time": "2025-07-09T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brasileiro Sub-20",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/R_NSTOVbF0Ptb_h8xN1Kmg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/44OCs28VkAdZWJOY6htzVw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751867482/match_banners/live-cruzeiro-u20-vs-fluminense-u20-live-stream.png"
-        },
-        {
-            "homeTeam": "Vitória",
-            "awayTeam": "Confiança",
-            "time": "2025-07-09T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Copa do Nordeste, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
-            "id": "live-vit-ria-vs-confian-a-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/250px-Gremio_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Esporte_Clube_S%C3%A3o_Jos%C3%A9.png/250px-Esporte_Clube_S%C3%A3o_Jos%C3%A9.png"
         },
         {
             "homeTeam": "Estudiantes",
@@ -190,6 +157,36 @@
             "id": "live-estudiantes-vs-v-lez-sarsfield-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_de_Estudiantes_de_La_Plata.svg/250px-Escudo_de_Estudiantes_de_La_Plata.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg/250px-Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg.png"
+        },
+        {
+            "homeTeam": "Cruzeiro U20",
+            "awayTeam": "Fluminense U20",
+            "time": "2025-07-09T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg"
+        },
+        {
+            "homeTeam": "Vitória",
+            "awayTeam": "Confiança",
+            "time": "2025-07-09T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
+            "id": "live-vit-ria-vs-confian-a-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png"
         },
         {
             "homeTeam": "Panathinaikos",
