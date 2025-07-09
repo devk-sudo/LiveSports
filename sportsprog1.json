@@ -1,6 +1,22 @@
 {
     "today": [
         {
+            "homeTeam": "Vit\u00f3ria",
+            "awayTeam": "Confian\u00e7a",
+            "time": "2025-07-09T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Copa do Nordeste, Knockout stage",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
+            "id": "live-vit-ria-vs-confian-a-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
+        },
+        {
             "homeTeam": "Cruzeiro U20",
             "awayTeam": "Fluminense U20",
             "time": "2025-07-09T00:30:00+01:00",
@@ -33,36 +49,23 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751948800/match_banners/live-estudiantes-vs-v-lez-sarsfield-live-stream.png"
         },
         {
-            "homeTeam": "Vit\u00f3ria",
-            "awayTeam": "Confian\u00e7a",
-            "time": "2025-07-09T00:30:00+01:00",
+            "homeTeam": "Western Australia All Star",
+            "awayTeam": "Persebaya Surabaya",
+            "time": "2025-07-09T12:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Brazil: Copa do Nordeste, Knockout stage",
+            "competition": "Persebaya MatchDay 2025",
             "urls": [
-                "https://sportzonline.si/channels/bra/br3.php"
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
-            "id": "live-vit-ria-vs-confian-a-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
-        },
-        {
-            "homeTeam": "England W",
-            "awayTeam": "Netherlands W",
-            "time": "2025-07-09T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Euro, Women, Group D",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-england-w-vs-netherlands-w-live-stream",
-            "id": "live-england-w-vs-netherlands-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034767/match_banners/live-england-w-vs-netherlands-w-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-western-allstar-vs-persebaya-live-stream",
+            "id": "live-western-allstar-vs-persebaya-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/250px-Football_pictogram.svg.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/sknmRTJdv0tHxLHy-H1L8Q_96x96.png"
         },
         {
             "homeTeam": "Blau-Wei\u00df Linz",
@@ -95,6 +98,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/37d9cckLeNjormaYMNLYZg_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034767/match_banners/live-panathinaikos-vs-schalke-04-live-stream.png"
+        },
+        {
+            "homeTeam": "England W",
+            "awayTeam": "Netherlands W",
+            "time": "2025-07-09T17:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group D",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-england-w-vs-netherlands-w-live-stream",
+            "id": "live-england-w-vs-netherlands-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034767/match_banners/live-england-w-vs-netherlands-w-live-stream.png"
         },
         {
             "homeTeam": "Ludogorets",
