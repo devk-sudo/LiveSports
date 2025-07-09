@@ -13,22 +13,8 @@
             "eventUrl": "https://livesports808.top/watch/live-estudiantes-vs-v-lez-sarsfield-live-stream",
             "id": "live-estudiantes-vs-v-lez-sarsfield-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_de_Estudiantes_de_La_Plata.svg/250px-Escudo_de_Estudiantes_de_La_Plata.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg/250px-Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg.png"
-        },
-        {
-            "homeTeam": "Cruzeiro U20",
-            "awayTeam": "Fluminense U20",
-            "time": "2025-07-09T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brasileiro Sub-20",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg/250px-F%C3%A1bio_Deivson_Lopes_Maciel_of_Cruzeiro_EC_%28cropped%29.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg/250px-Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751948800/match_banners/live-estudiantes-vs-v-lez-sarsfield-live-stream.png"
         },
         {
             "homeTeam": "Vitória",
@@ -43,22 +29,23 @@
             "eventUrl": "https://livesports808.top/watch/live-vit-ria-vs-confian-a-live-stream",
             "id": "live-vit-ria-vs-confian-a-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AD_Confianca36.png/250px-AD_Confianca36.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751862634/match_banners/live-vit-ria-vs-confian-a-live-stream.png"
         },
         {
-            "homeTeam": "Panathinaikos",
-            "awayTeam": "Schalke 04",
-            "time": "2025-07-09T17:00:00+01:00",
+            "homeTeam": "Cruzeiro U20",
+            "awayTeam": "Fluminense U20",
+            "time": "2025-07-09T00:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
+            "competition": "Brasileiro Sub-20",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd3.php"
+                "https://sportzonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-panathinaikos-vs-schalke-04-live-stream",
-            "id": "live-panathinaikos-vs-schalke-04-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/37d9cckLeNjormaYMNLYZg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png"
+            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "id": "live-cruzeiro-u20-vs-fluminense-u20-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/R_NSTOVbF0Ptb_h8xN1Kmg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/44OCs28VkAdZWJOY6htzVw_96x96.png"
         },
         {
             "homeTeam": "England W",
@@ -73,7 +60,8 @@
             "eventUrl": "https://livesports808.top/watch/live-england-w-vs-netherlands-w-live-stream",
             "id": "live-england-w-vs-netherlands-w-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034767/match_banners/live-england-w-vs-netherlands-w-live-stream.png"
         },
         {
             "homeTeam": "Blau-Weiß Linz",
@@ -88,7 +76,24 @@
             "eventUrl": "https://livesports808.top/watch/live-blau-wei-linz-vs-crvena-zvezda-live-stream",
             "id": "live-blau-wei-linz-vs-crvena-zvezda-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/FC_Blau-Wei%C3%9F_Linz_logo.svg/160px-FC_Blau-Wei%C3%9F_Linz_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/175px-KK_Crvena_zvezda_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/175px-KK_Crvena_zvezda_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751949571/match_banners/live-blau-wei-linz-vs-crvena-zvezda-live-stream.png"
+        },
+        {
+            "homeTeam": "Panathinaikos",
+            "awayTeam": "Schalke 04",
+            "time": "2025-07-09T17:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-panathinaikos-vs-schalke-04-live-stream",
+            "id": "live-panathinaikos-vs-schalke-04-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/37d9cckLeNjormaYMNLYZg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034767/match_banners/live-panathinaikos-vs-schalke-04-live-stream.png"
         },
         {
             "homeTeam": "Ludogorets",
@@ -103,7 +108,8 @@
             "eventUrl": "https://livesports808.top/watch/live-ludogorets-vs-dinamo-minsk-live-stream",
             "id": "live-ludogorets-vs-dinamo-minsk-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/PFC_Ludogorets_Razgrad_logo.png/250px-PFC_Ludogorets_Razgrad_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dinamo_Minsk_logo.svg/195px-Dinamo_Minsk_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dinamo_Minsk_logo.svg/195px-Dinamo_Minsk_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1751948803/match_banners/live-ludogorets-vs-dinamo-minsk-live-stream.png"
         },
         {
             "homeTeam": "Shelbourne",
@@ -118,7 +124,8 @@
             "eventUrl": "https://livesports808.top/watch/live-shelbourne-vs-linfield-live-stream",
             "id": "live-shelbourne-vs-linfield-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Shels_logo_sml.png/250px-Shels_logo_sml.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Linfield_FC_logo.png/250px-Linfield_FC_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Linfield_FC_logo.png/250px-Linfield_FC_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034770/match_banners/live-shelbourne-vs-linfield-live-stream.png"
         },
         {
             "homeTeam": "PSG",
@@ -141,7 +148,8 @@
             "eventUrl": "https://livesports808.top/watch/live-psg-vs-real-madrid-live-stream",
             "id": "live-psg-vs-real-madrid-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034772/match_banners/live-psg-vs-real-madrid-live-stream.png"
         },
         {
             "homeTeam": "France W",
@@ -156,22 +164,8 @@
             "eventUrl": "https://livesports808.top/watch/live-france-w-vs-wales-w-live-stream",
             "id": "live-france-w-vs-wales-w-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png"
-        },
-        {
-            "homeTeam": "Palmeiras U20",
-            "awayTeam": "São Paulo U20",
-            "time": "2025-07-10T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brasileiro Sub-20",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
-            "id": "live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/NnfDQPUqkXMEuoEA0fNTpg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HLZeh4Fx7b2MdOiYNy0q4w_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034773/match_banners/live-france-w-vs-wales-w-live-stream.png"
         },
         {
             "homeTeam": "New England",
@@ -186,7 +180,24 @@
             "eventUrl": "https://livesports808.top/watch/live-new-england-vs-inter-miami-live-stream",
             "id": "live-new-england-vs-inter-miami-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/GKVR_2dIV6UzlmGa9mcQKA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/dn0bMtTbbpx7v3Ieq6TZtQ_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/dn0bMtTbbpx7v3Ieq6TZtQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034775/match_banners/live-new-england-vs-inter-miami-live-stream.png"
+        },
+        {
+            "homeTeam": "Palmeiras U20",
+            "awayTeam": "São Paulo U20",
+            "time": "2025-07-10T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brasileiro Sub-20",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
+            "id": "live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/NnfDQPUqkXMEuoEA0fNTpg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HLZeh4Fx7b2MdOiYNy0q4w_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034774/match_banners/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream.png"
         },
         {
             "homeTeam": "Bahia",
@@ -201,7 +212,8 @@
             "eventUrl": "https://livesports808.top/watch/live-bahia-vs-fortaleza-live-stream",
             "id": "live-bahia-vs-fortaleza-live-stream",
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/me10ephzRxdj45zVq1Risg_96x96.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/me10ephzRxdj45zVq1Risg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034776/match_banners/live-bahia-vs-fortaleza-live-stream.png"
         }
     ]
 }
