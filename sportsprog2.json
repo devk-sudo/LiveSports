@@ -1,22 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Palmeiras U20",
-            "awayTeam": "São Paulo U20",
-            "time": "2025-07-10T00:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brasileiro Sub-20",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
-            "id": "live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/NnfDQPUqkXMEuoEA0fNTpg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HLZeh4Fx7b2MdOiYNy0q4w_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034774/match_banners/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream.png"
-        },
-        {
             "homeTeam": "New England",
             "awayTeam": "Inter Miami",
             "time": "2025-07-10T00:30:00+01:00",
@@ -31,6 +15,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/GKVR_2dIV6UzlmGa9mcQKA_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/dn0bMtTbbpx7v3Ieq6TZtQ_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034775/match_banners/live-new-england-vs-inter-miami-live-stream.png"
+        },
+        {
+            "homeTeam": "Palmeiras U20",
+            "awayTeam": "São Paulo U20",
+            "time": "2025-07-10T00:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brasileiro Sub-20",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
+            "id": "live-palmeiras-u20-vs-s-o-paulo-u20-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/NnfDQPUqkXMEuoEA0fNTpg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HLZeh4Fx7b2MdOiYNy0q4w_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752034774/match_banners/live-palmeiras-u20-vs-s-o-paulo-u20-live-stream.png"
         },
         {
             "homeTeam": "Bahia",
@@ -54,14 +54,14 @@
             "time": "2025-07-10T15:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-hartberg-vs-crvena-zvezda-live-stream",
             "id": "live-hartberg-vs-crvena-zvezda-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/TSV_Hartberg.png/250px-TSV_Hartberg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/175px-KK_Crvena_zvezda_logo.svg.png"
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/i26ntB7bZFvS6GkKj_gGcQ_96x96.png"
         },
         {
             "homeTeam": "Sabah",
@@ -69,13 +69,13 @@
             "time": "2025-07-10T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-sabah-vs-celje-live-stream",
             "id": "live-sabah-vs-celje-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sabah_Football_Club_%28Malaysia%29_Cover.jpg/250px-Sabah_Football_Club_%28Malaysia%29_Cover.jpg",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/NK_Celje.png/250px-NK_Celje.png"
         },
         {
@@ -84,29 +84,14 @@
             "time": "2025-07-10T17:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-aek-larnaca-vs-partizan-live-stream",
             "id": "live-aek-larnaca-vs-partizan-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/AEK_Larnaca_logo.svg/150px-AEK_Larnaca_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
-        },
-        {
-            "homeTeam": "Paksi SE",
-            "awayTeam": "CFR Cluj",
-            "time": "2025-07-10T18:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-paksi-se-vs-cfr-cluj-live-stream",
-            "id": "live-paksi-se-vs-cfr-cluj-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paksi_FC_%28Logo%29.svg/250px-Paksi_FC_%28Logo%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/160px-CFR_Cluj_badge.svg.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/fnE_BlRBcId_FVzpRDbkXw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/v_bEGhgMcIRbc7HdzgY1sw_96x96.png"
         },
         {
             "homeTeam": "St. Pölten",
@@ -114,7 +99,7 @@
             "time": "2025-07-10T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -124,12 +109,27 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/250px-BesiktasJK-Logo.svg.png"
         },
         {
+            "homeTeam": "Paksi SE",
+            "awayTeam": "CFR Cluj",
+            "time": "2025-07-10T18:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Europa League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-paksi-se-vs-cfr-cluj-live-stream",
+            "id": "live-paksi-se-vs-cfr-cluj-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paksi_FC_%28Logo%29.svg/250px-Paksi_FC_%28Logo%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/160px-CFR_Cluj_badge.svg.png"
+        },
+        {
             "homeTeam": "Levski Sofia",
             "awayTeam": "Hapoel Be'er Sheva",
             "time": "2025-07-10T18:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd8.php"
             ],
@@ -139,35 +139,19 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Logo-hapoel-positive.svg/250px-Logo-hapoel-positive.svg.png"
         },
         {
-            "homeTeam": "Norway W",
-            "awayTeam": "Iceland W",
+            "homeTeam": "Finland",
+            "awayTeam": "Switzerland",
             "time": "2025-07-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group A",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php"
+                "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-norway-w-vs-iceland-w-live-stream",
-            "id": "live-norway-w-vs-iceland-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/180px-Iceland_national_football_team_logo.svg.png"
-        },
-        {
-            "homeTeam": "Finland W",
-            "awayTeam": "Switzerland W",
-            "time": "2025-07-10T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-finland-w-vs-switzerland-w-live-stream",
-            "id": "live-finland-w-vs-switzerland-w-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "eventUrl": "https://livesports808.top/watch/live-finland-vs-switzerland-live-stream",
+            "id": "live-finland-vs-switzerland-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png"
         },
         {
             "homeTeam": "Legia Warszawa",
@@ -175,7 +159,7 @@
             "time": "2025-07-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php"
             ],
@@ -185,19 +169,35 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/FC_Aktobe_Logo.svg/250px-FC_Aktobe_Logo.svg.png"
         },
         {
-            "homeTeam": "Finland",
-            "awayTeam": "Switzerland",
+            "homeTeam": "Norway W",
+            "awayTeam": "Iceland W",
             "time": "2025-07-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group A",
             "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/pt/sporttv2.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-finland-vs-switzerland-live-stream",
-            "id": "live-finland-vs-switzerland-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Finland_national_football_team_crest.png/250px-Finland_national_football_team_crest.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/250px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+            "eventUrl": "https://livesports808.top/watch/live-norway-w-vs-iceland-w-live-stream",
+            "id": "live-norway-w-vs-iceland-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_96x96.png"
+        },
+        {
+            "homeTeam": "Finland W",
+            "awayTeam": "Switzerland W",
+            "time": "2025-07-10T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group A",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-finland-w-vs-switzerland-w-live-stream",
+            "id": "live-finland-w-vs-switzerland-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png"
         },
         {
             "homeTeam": "Flamengo U20",
@@ -205,14 +205,14 @@
             "time": "2025-07-10T21:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brasileiro Sub-20",
             "urls": [
                 "https://sportzonline.si/channels/bra/br1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-flamengo-u20-vs-botafogo-u20-live-stream",
             "id": "live-flamengo-u20-vs-botafogo-u20-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/SkjeJ4_lxoqZkbdam6e-jg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/IBJ-Qt_ZcaeDQMZLNBVZAA_96x96.png"
         },
         {
             "homeTeam": "CRB",
@@ -220,7 +220,7 @@
             "time": "2025-07-11T01:35:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileirão Série B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -235,13 +235,13 @@
             "time": "2025-07-11T10:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-imt-novi-beograd-vs-radnik-surdulica-live-stream",
             "id": "live-imt-novi-beograd-vs-radnik-surdulica-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/FK_IMT_crest.png/250px-FK_IMT_crest.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/FK_Radnik_Surdulica_logo.svg/250px-FK_Radnik_Surdulica_logo.svg.png"
         },
         {
@@ -250,7 +250,7 @@
             "time": "2025-07-11T10:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
@@ -266,13 +266,13 @@
             "time": "2025-07-11T13:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-arda-vs-beitar-jerusalem-live-stream",
             "id": "live-arda-vs-beitar-jerusalem-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg/250px-Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+            "homeTeamLogo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Beitar_Jerusalem.png/250px-Beitar_Jerusalem.png"
         },
         {
@@ -281,7 +281,7 @@
             "time": "2025-07-11T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Romania: Superliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -296,14 +296,14 @@
             "time": "2025-07-11T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Romania: Superliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-scm-arge-ul-pite-ti-vs-rapid-bucure-ti-live-stream",
             "id": "live-scm-arge-ul-pite-ti-vs-rapid-bucure-ti-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/FC_Arges_Pitesti_badge.png/180px-FC_Arges_Pitesti_badge.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/250px-FC_Rapid_Bucuresti_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CS_Rapid_Bucure%C8%99ti_logo.png/180px-CS_Rapid_Bucure%C8%99ti_logo.png"
         },
         {
             "homeTeam": "Italy W",
@@ -311,7 +311,7 @@
             "time": "2025-07-11T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -320,8 +320,8 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-italy-w-vs-spain-w-live-stream",
             "id": "live-italy-w-vs-spain-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/250px-Logo_Italy_National_Football_Team_-_2023.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/145px-Spain_national_football_team_crest.svg.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png"
         },
         {
             "homeTeam": "Portugal W",
@@ -329,15 +329,15 @@
             "time": "2025-07-11T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Euro, Women, Group B",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-portugal-w-vs-belgium-w-live-stream",
             "id": "live-portugal-w-vs-belgium-w-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kit_left_arm_por25h.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cupfinal_Belgium_2018-19_before_kickoff.jpg/250px-Cupfinal_Belgium_2018-19_before_kickoff.jpg"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_96x96.png"
         },
         {
             "homeTeam": "Vila Nova",
@@ -345,7 +345,7 @@
             "time": "2025-07-11T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileirão Série B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -360,14 +360,14 @@
             "time": "2025-07-12T01:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: Copa América Femenina, Group A",
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ecuador-w-vs-uruguay-live-stream",
             "id": "live-ecuador-w-vs-uruguay-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ecuador_national_football_team.png/250px-Ecuador_national_football_team.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Uruguay_national_football_team_seal.svg/130px-Uruguay_national_football_team_seal.svg.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_96x96.png"
         },
         {
             "homeTeam": "Puebla",
@@ -375,7 +375,7 @@
             "time": "2025-07-12T02:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Mexico: Liga MX, Apertura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -390,14 +390,14 @@
             "time": "2025-07-12T04:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Mexico: Liga MX, Apertura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ju-rez-vs-am-rica-live-stream",
             "id": "live-ju-rez-vs-am-rica-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/FC_Ju%C3%A1rez_logo.svg/210px-FC_Ju%C3%A1rez_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/85-dl3QydggPuQl-kc2mtA_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QKZVogU66ByvZRqIAIVtmA_96x96.png"
         },
         {
             "homeTeam": "Tijuana",
@@ -405,7 +405,7 @@
             "time": "2025-07-12T04:05:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Mexico: Liga MX, Apertura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
