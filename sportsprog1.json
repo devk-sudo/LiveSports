@@ -97,20 +97,24 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297054/match_banners/live-estrela-vs-celtic-live-stream.png"
         },
         {
-            "homeTeam": "Ajax",
-            "awayTeam": "AGF",
-            "time": "2025-07-12T14:00:00+01:00",
+            "homeTeam": "Indonesia Super League All Stars",
+            "awayTeam": "Dewa United",
+            "time": "2025-07-12T13:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
+            "competition": "Indonesia President Cup",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd3.php"
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-ajax-vs-agf-live-stream",
-            "id": "live-ajax-vs-agf-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Ajax_Crest_from_1928-1990.png/250px-Ajax_Crest_from_1928-1990.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/AGF_Aarhus_logo.svg/150px-AGF_Aarhus_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297055/match_banners/live-ajax-vs-agf-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-liga-1-all-stars-vs-dewa-united-live-stream",
+            "id": "live-liga-1-all-stars-vs-dewa-united-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BRI_Liga_1.svg/250px-BRI_Liga_1.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Dewa_United_F.C._logo.svg/250px-Dewa_United_F.C._logo.svg.png"
         },
         {
             "homeTeam": "Panathinaikos",
@@ -128,6 +132,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/250px-Panathinaikos_F.C._logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/250px-S.C._Braga_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297056/match_banners/live-panathinaikos-vs-sporting-braga-live-stream.png"
+        },
+        {
+            "homeTeam": "Ajax",
+            "awayTeam": "AGF",
+            "time": "2025-07-12T14:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-ajax-vs-agf-live-stream",
+            "id": "live-ajax-vs-agf-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Ajax_Crest_from_1928-1990.png/250px-Ajax_Crest_from_1928-1990.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/AGF_Aarhus_logo.svg/150px-AGF_Aarhus_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297055/match_banners/live-ajax-vs-agf-live-stream.png"
         },
         {
             "homeTeam": "Hearts",
@@ -160,6 +180,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/%C3%9Cmraniyespor_logo.png/250px-%C3%9Cmraniyespor_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Galatasaray_AS_logo_2025.svg/250px-Galatasaray_AS_logo_2025.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297058/match_banners/live-mran-yespor-vs-galatasaray-live-stream.png"
+        },
+        {
+            "homeTeam": "Sweden W",
+            "awayTeam": "Germany W",
+            "time": "2025-07-12T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group C",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sweden-w-vs-germany-w-live-stream",
+            "id": "live-sweden-w-vs-germany-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OkFlRvRsKMWb8Hk20L9Trw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297062/match_banners/live-sweden-w-vs-germany-w-live-stream.png"
         },
         {
             "homeTeam": "Deportivo Pasto",
@@ -195,39 +232,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297060/match_banners/live-poland-w-vs-denmark-w-live-stream.png"
         },
         {
-            "homeTeam": "Novorizontino",
-            "awayTeam": "Am\u00e9rica Mineiro",
-            "time": "2025-07-12T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-novorizontino-vs-am-rica-mineiro-live-stream",
-            "id": "live-novorizontino-vs-am-rica-mineiro-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gr%C3%AAmio_Novorizontino.svg/185px-Gr%C3%AAmio_Novorizontino.svg.png",
-            "awayTeamLogo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297061/match_banners/live-novorizontino-vs-am-rica-mineiro-live-stream.png"
-        },
-        {
-            "homeTeam": "Sweden W",
-            "awayTeam": "Germany W",
-            "time": "2025-07-12T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Euro, Women, Group C",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sweden-w-vs-germany-w-live-stream",
-            "id": "live-sweden-w-vs-germany-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OkFlRvRsKMWb8Hk20L9Trw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297062/match_banners/live-sweden-w-vs-germany-w-live-stream.png"
-        },
-        {
             "homeTeam": "Birmingham City",
             "awayTeam": "Sevilla",
             "time": "2025-07-12T20:00:00+01:00",
@@ -245,20 +249,20 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297063/match_banners/live-birmingham-city-vs-sevilla-live-stream.png"
         },
         {
-            "homeTeam": "Internacional",
-            "awayTeam": "Vit\u00f3ria",
-            "time": "2025-07-12T20:30:00+01:00",
+            "homeTeam": "Novorizontino",
+            "awayTeam": "Am\u00e9rica Mineiro",
+            "time": "2025-07-12T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
-                "https://sportzonline.si/channels/bra/br5.php"
+                "https://sportzonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-vit-ria-live-stream",
-            "id": "live-internacional-vs-vit-ria-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297064/match_banners/live-internacional-vs-vit-ria-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-novorizontino-vs-am-rica-mineiro-live-stream",
+            "id": "live-novorizontino-vs-am-rica-mineiro-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gr%C3%AAmio_Novorizontino.svg/185px-Gr%C3%AAmio_Novorizontino.svg.png",
+            "awayTeamLogo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297061/match_banners/live-novorizontino-vs-am-rica-mineiro-live-stream.png"
         },
         {
             "homeTeam": "Flamengo",
@@ -275,6 +279,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/250px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752294969/match_banners/live-flamengo-vs-s-o-paulo-live-stream.png"
+        },
+        {
+            "homeTeam": "Internacional",
+            "awayTeam": "Vit\u00f3ria",
+            "time": "2025-07-12T20:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-vit-ria-live-stream",
+            "id": "live-internacional-vs-vit-ria-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297064/match_banners/live-internacional-vs-vit-ria-live-stream.png"
         },
         {
             "homeTeam": "Peru W",
@@ -544,22 +564,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297080/match_banners/live-chelsea-vs-psg-live-stream.png"
         },
         {
-            "homeTeam": "Netherlands W",
-            "awayTeam": "France W",
-            "time": "2025-07-13T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Euro, Women, Group D",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-netherlands-w-vs-france-w-live-stream",
-            "id": "live-netherlands-w-vs-france-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297081/match_banners/live-netherlands-w-vs-france-w-live-stream.png"
-        },
-        {
             "homeTeam": "England W",
             "awayTeam": "Wales W",
             "time": "2025-07-13T20:00:00+01:00",
@@ -575,6 +579,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/1JjnDm6Es30LryHzbudyEw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297082/match_banners/live-england-w-vs-wales-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Netherlands W",
+            "awayTeam": "France W",
+            "time": "2025-07-13T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Euro, Women, Group D",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-netherlands-w-vs-france-w-live-stream",
+            "id": "live-netherlands-w-vs-france-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297081/match_banners/live-netherlands-w-vs-france-w-live-stream.png"
         },
         {
             "homeTeam": "Bolivia W",
@@ -675,23 +695,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297087/match_banners/live-fortaleza-vs-cear-live-stream.png"
         },
         {
-            "homeTeam": "Brazil W",
-            "awayTeam": "Venezuela W",
-            "time": "2025-07-14T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "South America: Copa Am\u00e9rica Femenina, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br1.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-brazil-w-vs-venezuela-w-live-stream",
-            "id": "live-brazil-w-vs-venezuela-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297088/match_banners/live-brazil-w-vs-venezuela-w-live-stream.png"
-        },
-        {
             "homeTeam": "River Plate",
             "awayTeam": "Platense",
             "time": "2025-07-14T01:00:00+01:00",
@@ -707,6 +710,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Escudo_del_Club_Alt%C3%A9tico_Platense.svg/120px-Escudo_del_Club_Alt%C3%A9tico_Platense.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752294996/match_banners/live-river-plate-vs-platense-live-stream.png"
+        },
+        {
+            "homeTeam": "Brazil W",
+            "awayTeam": "Venezuela W",
+            "time": "2025-07-14T01:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "South America: Copa Am\u00e9rica Femenina, Group B",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-brazil-w-vs-venezuela-w-live-stream",
+            "id": "live-brazil-w-vs-venezuela-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752297088/match_banners/live-brazil-w-vs-venezuela-w-live-stream.png"
         },
         {
             "homeTeam": "La Equidad",
