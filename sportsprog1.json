@@ -98,7 +98,8 @@
                 "https://sportzonline.si/channels/pt/sporttv1.php",
                 "https://sportzonline.si/channels/bra/br6.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br6.php"
+                "https://sportzonline.si/channels/bra/br6.php",
+                "https://twnx3-cf.boblcfwudz421.com/auth%3Def233d1f964ddb5c2451324e350f8bd458260088db8c049ec15ca4e05780eddc06c25c515a880e182a0402cf05e98e01583f0f9d1bba50263b6ec112fb013f30f1c8bbdf6ebbb7f7c175b90eab42f11a74b7474f52870612ba7524377494f4b5cd155f2e44e9b756de5018fa66226465a4d53fd95c84c738469cd97b966a0635%26cid%3DLM84lyT-3q-YQQfiWtvEQ250718%26_v%3D2%26_r%3DW4TThf%26_vis%3Df7113b036eac33053ef50723c85e4b5e3c1dd2e00f419a08d089e3f6a97b10c6%26_vvs%3D20dd5dedd56b2ecc406070645c99b94cbee9cc5fb2a37d90c86227629fbf03ad/transcode/c360476_480p.m3u8"
             ],
             "eventUrl": "https://livesports808.top/watch/live-timor-leste-u23-vs-thailand-u23-live-stream",
             "id": "live-timor-leste-u23-vs-thailand-u23-live-stream",
@@ -123,6 +124,22 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752901502/match_banners/live-nottingham-forest-vs-monaco-live-stream.png"
         },
         {
+            "homeTeam": "Arminia Bielefeld",
+            "awayTeam": "Monaco",
+            "time": "2025-07-19T14:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-arminia-bielefeld-vs-monaco-live-stream",
+            "id": "live-arminia-bielefeld-vs-monaco-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Arminia_Bielefeld_crest.svg/250px-Arminia_Bielefeld_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/135px-LogoASMonacoFC2021.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752920255/match_banners/live-arminia-bielefeld-vs-monaco-live-stream.png"
+        },
+        {
             "homeTeam": "Manchester United",
             "awayTeam": "Leeds United",
             "time": "2025-07-19T14:00:00+01:00",
@@ -137,22 +154,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/250px-Manchester_United_FC_crest.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/250px-Leeds_United_F.C._logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899954/match_banners/live-manchester-united-vs-leeds-united-live-stream.png"
-        },
-        {
-            "homeTeam": "Arminia Bielefeld",
-            "awayTeam": "Monaco",
-            "time": "2025-07-19T14:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-arminia-bielefeld-vs-monaco-live-stream",
-            "id": "live-arminia-bielefeld-vs-monaco-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Arminia_Bielefeld_crest.svg/250px-Arminia_Bielefeld_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/135px-LogoASMonacoFC2021.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752920255/match_banners/live-arminia-bielefeld-vs-monaco-live-stream.png"
         },
         {
             "homeTeam": "Kickers Emden",
@@ -171,6 +172,22 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899956/match_banners/live-kickers-emden-vs-werder-bremen-live-stream.png"
         },
         {
+            "homeTeam": "Reading",
+            "awayTeam": "Tottenham Hotspur",
+            "time": "2025-07-19T15:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-reading-vs-tottenham-hotspur-live-stream",
+            "id": "live-reading-vs-tottenham-hotspur-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/aQoPSirn2zYnaYDn1FTd2Q_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902234/match_banners/live-reading-vs-tottenham-hotspur-live-stream.png"
+        },
+        {
             "homeTeam": "Hansa Rostock",
             "awayTeam": "Aston Villa",
             "time": "2025-07-19T15:00:00+01:00",
@@ -186,6 +203,22 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/WoCPcn56VaFUGCM-K44qXw_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752901505/match_banners/live-hansa-rostock-vs-aston-villa-live-stream.png"
+        },
+        {
+            "homeTeam": "Stoke City",
+            "awayTeam": "Wolverhampton Wanderers",
+            "time": "2025-07-19T15:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-stoke-city-vs-wolverhampton-wanderers-live-stream",
+            "id": "live-stoke-city-vs-wolverhampton-wanderers-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Stoke_City_FC_new_crest.svg/250px-Stoke_City_FC_new_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/250px-Wolverhampton_Wanderers_FC_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902235/match_banners/live-stoke-city-vs-wolverhampton-wanderers-live-stream.png"
         },
         {
             "homeTeam": "Celtic",
@@ -218,38 +251,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/250px-Blackburn_Rovers.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/250px-Everton_FC_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899958/match_banners/live-blackburn-rovers-vs-everton-live-stream.png"
-        },
-        {
-            "homeTeam": "Reading",
-            "awayTeam": "Tottenham Hotspur",
-            "time": "2025-07-19T15:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-reading-vs-tottenham-hotspur-live-stream",
-            "id": "live-reading-vs-tottenham-hotspur-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/aQoPSirn2zYnaYDn1FTd2Q_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902234/match_banners/live-reading-vs-tottenham-hotspur-live-stream.png"
-        },
-        {
-            "homeTeam": "Stoke City",
-            "awayTeam": "Wolverhampton Wanderers",
-            "time": "2025-07-19T15:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-stoke-city-vs-wolverhampton-wanderers-live-stream",
-            "id": "live-stoke-city-vs-wolverhampton-wanderers-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Stoke_City_FC_new_crest.svg/250px-Stoke_City_FC_new_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/250px-Wolverhampton_Wanderers_FC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902235/match_banners/live-stoke-city-vs-wolverhampton-wanderers-live-stream.png"
         },
         {
             "homeTeam": "Varzim",
@@ -305,7 +306,7 @@
             "time": "2025-07-19T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php"
             ],
@@ -380,22 +381,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899968/match_banners/live-sporting-braga-vs-celta-de-vigo-live-stream.png"
         },
         {
-            "homeTeam": "Sevilla",
-            "awayTeam": "Sunderland",
-            "time": "2025-07-19T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sevilla-vs-sunderland-live-stream",
-            "id": "live-sevilla-vs-sunderland-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/170px-Sevilla_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/260px-Logo_Sunderland.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899968/match_banners/live-sevilla-vs-sunderland-live-stream.png"
-        },
-        {
             "homeTeam": "Fortaleza",
             "awayTeam": "Bahia",
             "time": "2025-07-19T20:00:00+01:00",
@@ -410,6 +395,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/250px-Fortaleza_CEIF_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/200px-Esporte_Clube_Bahia_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899971/match_banners/live-fortaleza-vs-bahia-live-stream.png"
+        },
+        {
+            "homeTeam": "Sevilla",
+            "awayTeam": "Sunderland",
+            "time": "2025-07-19T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sevilla-vs-sunderland-live-stream",
+            "id": "live-sevilla-vs-sunderland-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/170px-Sevilla_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/260px-Logo_Sunderland.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899968/match_banners/live-sevilla-vs-sunderland-live-stream.png"
         },
         {
             "homeTeam": "Goi\u00e1s",
@@ -493,6 +494,22 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899974/match_banners/live-new-york-rb-vs-inter-miami-live-stream.png"
         },
         {
+            "homeTeam": "Colombia W",
+            "awayTeam": "Paraguay W",
+            "time": "2025-07-20T01:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "South America: Copa Am\u00e9rica Femenina, Group B",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-colombia-w-vs-paraguay-w-live-stream",
+            "id": "live-colombia-w-vs-paraguay-w-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902238/match_banners/live-colombia-w-vs-paraguay-w-live-stream.png"
+        },
+        {
             "homeTeam": "Instituto",
             "awayTeam": "River Plate",
             "time": "2025-07-20T01:00:00+01:00",
@@ -508,22 +525,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Instituto_acc_cordoba_logo.svg/200px-Instituto_acc_cordoba_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899976/match_banners/live-instituto-vs-river-plate-live-stream.png"
-        },
-        {
-            "homeTeam": "Colombia W",
-            "awayTeam": "Paraguay W",
-            "time": "2025-07-20T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "South America: Copa Am\u00e9rica Femenina, Group B",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-colombia-w-vs-paraguay-w-live-stream",
-            "id": "live-colombia-w-vs-paraguay-w-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752902238/match_banners/live-colombia-w-vs-paraguay-w-live-stream.png"
         },
         {
             "homeTeam": "S\u00e3o Paulo",
@@ -703,22 +704,6 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899985/match_banners/live-beach-soccer-georgia-vs-portugal-live-stream.png"
         },
         {
-            "homeTeam": "Akhmat Grozny",
-            "awayTeam": "Rubin Kazan",
-            "time": "2025-07-20T18:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Russia: Premier League",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-akhmat-grozny-vs-rubin-kazan-live-stream",
-            "id": "live-akhmat-grozny-vs-rubin-kazan-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Akhmat_Grozny_logo.png/170px-Akhmat_Grozny_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/150px-FC_Rubin_Kazan_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899986/match_banners/live-akhmat-grozny-vs-rubin-kazan-live-stream.png"
-        },
-        {
             "homeTeam": "Barracas Central",
             "awayTeam": "Independiente Rivadavia",
             "time": "2025-07-20T18:30:00+01:00",
@@ -733,6 +718,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/250px-Barracas_central_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Club_Independiente_Rivadavia.svg/250px-Escudo_del_Club_Independiente_Rivadavia.svg.png",
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899987/match_banners/live-barracas-central-vs-independiente-rivadavia-live-stream.png"
+        },
+        {
+            "homeTeam": "Akhmat Grozny",
+            "awayTeam": "Rubin Kazan",
+            "time": "2025-07-20T18:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Russia: Premier League",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-akhmat-grozny-vs-rubin-kazan-live-stream",
+            "id": "live-akhmat-grozny-vs-rubin-kazan-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Akhmat_Grozny_logo.png/170px-Akhmat_Grozny_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/150px-FC_Rubin_Kazan_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899986/match_banners/live-akhmat-grozny-vs-rubin-kazan-live-stream.png"
         },
         {
             "homeTeam": "\u017delezni\u010dar Pan\u010devo",
@@ -783,20 +784,20 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899989/match_banners/live-rapid-bucure-ti-vs-cfr-cluj-live-stream.png"
         },
         {
-            "homeTeam": "Uni\u00e3o de Leiria",
-            "awayTeam": "Fenerbah\u00e7e",
+            "homeTeam": "Cruzeiro",
+            "awayTeam": "Juventude",
             "time": "2025-07-20T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
+            "competition": "Brazil: Brasileir\u00e3o Betano",
             "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
+                "https://sportzonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-uni-o-de-leiria-vs-fenerbah-e-live-stream",
-            "id": "live-uni-o-de-leiria-vs-fenerbah-e-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/U.D._Leiria_crest_%282024%29.png/250px-U.D._Leiria_crest_%282024%29.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/250px-Fenerbah%C3%A7e.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899990/match_banners/live-uni-o-de-leiria-vs-fenerbah-e-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-vs-juventude-live-stream",
+            "id": "live-cruzeiro-vs-juventude-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/EC_Juventude.svg/245px-EC_Juventude.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899991/match_banners/live-cruzeiro-vs-juventude-live-stream.png"
         },
         {
             "homeTeam": "Amazonas",
@@ -815,20 +816,20 @@
             "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899992/match_banners/live-amazonas-vs-botafogo-sp-live-stream.png"
         },
         {
-            "homeTeam": "Cruzeiro",
-            "awayTeam": "Juventude",
+            "homeTeam": "Uni\u00e3o de Leiria",
+            "awayTeam": "Fenerbah\u00e7e",
             "time": "2025-07-20T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "competition": "Club Friendly Games",
             "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
+                "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-cruzeiro-vs-juventude-live-stream",
-            "id": "live-cruzeiro-vs-juventude-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/EC_Juventude.svg/245px-EC_Juventude.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899991/match_banners/live-cruzeiro-vs-juventude-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-uni-o-de-leiria-vs-fenerbah-e-live-stream",
+            "id": "live-uni-o-de-leiria-vs-fenerbah-e-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/U.D._Leiria_crest_%282024%29.png/250px-U.D._Leiria_crest_%282024%29.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/250px-Fenerbah%C3%A7e.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899990/match_banners/live-uni-o-de-leiria-vs-fenerbah-e-live-stream.png"
         },
         {
             "homeTeam": "Newell's Old Boys",
