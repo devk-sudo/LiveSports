@@ -38,14 +38,15 @@
             "time": "2025-07-21T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Romania: Superliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-unirea-slobozia-vs-csikszereda-live-stream",
             "id": "live-unirea-slobozia-vs-csikszereda-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/AFC_Unirea_Slobozia.png/250px-AFC_Unirea_Slobozia.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/FK_Miercurea_Ciuc_logo.png/250px-FK_Miercurea_Ciuc_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/FK_Miercurea_Ciuc_logo.png/250px-FK_Miercurea_Ciuc_logo.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072660/match_banners/live-unirea-slobozia-vs-csikszereda-live-stream.png"
         },
         {
             "homeTeam": "OFK Beograd",
@@ -53,14 +54,15 @@
             "time": "2025-07-21T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Serbia: Mozzart Bet Superliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ofk-beograd-vs-spartak-subotica-live-stream",
             "id": "live-ofk-beograd-vs-spartak-subotica-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/OFK_Beograd.png/250px-OFK_Beograd.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Spartaksubotica.png/250px-Spartaksubotica.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Spartaksubotica.png/250px-Spartaksubotica.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072662/match_banners/live-ofk-beograd-vs-spartak-subotica-live-stream.png"
         },
         {
             "homeTeam": "Dinamo Bucureşti",
@@ -68,14 +70,15 @@
             "time": "2025-07-21T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Romania: Superliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-dinamo-bucure-ti-vs-boto-ani-live-stream",
             "id": "live-dinamo-bucure-ti-vs-boto-ani-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/FC_Dinamo_Bucuresti_logo.svg/190px-FC_Dinamo_Bucuresti_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FC_Botosani_2022_logo.png/250px-FC_Botosani_2022_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FC_Botosani_2022_logo.png/250px-FC_Botosani_2022_logo.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072755/match_banners/live-dinamo-bucure-ti-vs-boto-ani-live-stream.png"
         },
         {
             "homeTeam": "Sporting CP",
@@ -83,7 +86,7 @@
             "time": "2025-07-21T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php",
                 "https://sportzonline.si/channels/pt/sporttv5.php",
@@ -92,7 +95,8 @@
             "eventUrl": "https://livesports808.top/watch/live-sporting-cp-vs-sunderland-live-stream",
             "id": "live-sporting-cp-vs-sunderland-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/250px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/260px-Logo_Sunderland.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/260px-Logo_Sunderland.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072663/match_banners/live-sporting-cp-vs-sunderland-live-stream.png"
         },
         {
             "homeTeam": "Argentina W",
@@ -100,7 +104,7 @@
             "time": "2025-07-21T22:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: Copa América Femenina, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php",
@@ -109,7 +113,8 @@
             "eventUrl": "https://livesports808.top/watch/live-argentina-w-vs-peru-w-live-stream",
             "id": "live-argentina-w-vs-peru-w-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Hurlingham_Club_Arg_logo.png/150px-Hurlingham_Club_Arg_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Universidad_Cesar_Vallejo.svg/150px-Universidad_Cesar_Vallejo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Universidad_Cesar_Vallejo.svg/150px-Universidad_Cesar_Vallejo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072757/match_banners/live-argentina-w-vs-peru-w-live-stream.png"
         },
         {
             "homeTeam": "Estudiantes",
@@ -117,7 +122,7 @@
             "time": "2025-07-21T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Liga Profesional, Clausura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php",
                 "https://sportzonline.si/channels/pt/sporttv2.php"
@@ -125,7 +130,8 @@
             "eventUrl": "https://livesports808.top/watch/live-estudiantes-vs-hurac-n-live-stream",
             "id": "live-estudiantes-vs-hurac-n-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_de_Estudiantes_de_La_Plata.svg/250px-Escudo_de_Estudiantes_de_La_Plata.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072665/match_banners/live-estudiantes-vs-hurac-n-live-stream.png"
         },
         {
             "homeTeam": "Chile W",
@@ -133,7 +139,7 @@
             "time": "2025-07-22T01:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South America: Copa América Femenina, Group A",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php",
@@ -142,7 +148,8 @@
             "eventUrl": "https://livesports808.top/watch/live-chile-w-vs-ecuador-w-live-stream",
             "id": "live-chile-w-vs-ecuador-w-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ecuador_national_football_team.png/250px-Ecuador_national_football_team.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Ecuador_national_football_team.png/250px-Ecuador_national_football_team.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072666/match_banners/live-chile-w-vs-ecuador-w-live-stream.png"
         },
         {
             "homeTeam": "San Martín San Juan",
@@ -150,14 +157,15 @@
             "time": "2025-07-22T01:15:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Liga Profesional, Clausura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-san-mart-n-san-juan-vs-deportivo-riestra-live-stream",
             "id": "live-san-mart-n-san-juan-vs-deportivo-riestra-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/San_Mart%C3%ADn_de_San_Juan.png/250px-San_Mart%C3%ADn_de_San_Juan.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/250px-Escudo_del_Club_Deportivo_Riestra.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/250px-Escudo_del_Club_Deportivo_Riestra.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753072667/match_banners/live-san-mart-n-san-juan-vs-deportivo-riestra-live-stream.png"
         }
     ]
 }
