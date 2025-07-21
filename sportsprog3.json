@@ -1,59 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Independiente",
-            "awayTeam": "Talleres C\u00f3rdoba",
-            "time": "2025-07-21T01:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Argentina: Liga Profesional, Clausura",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-independiente-vs-talleres-c-rdoba-live-stream",
-            "id": "live-independiente-vs-talleres-c-rdoba-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Escudo_del_Club_Atl%C3%A9tico_Independiente_de_Avellaneda.svg/250px-Escudo_del_Club_Atl%C3%A9tico_Independiente_de_Avellaneda.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Escudo_Talleres_2015.svg/250px-Escudo_Talleres_2015.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899996/match_banners/live-independiente-vs-talleres-c-rdoba-live-stream.png"
-        },
-        {
-            "homeTeam": "Am\u00e9rica",
-            "awayTeam": "Toluca",
-            "time": "2025-07-21T01:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Mexico: Trofeo de Campeon de Campeones",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-am-rica-vs-toluca-live-stream",
-            "id": "live-am-rica-vs-toluca-live-stream",
-            "homeTeamLogo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/250px-Club_Toluca_Logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dkv60jfkl/image/upload/v1752899997/match_banners/live-am-rica-vs-toluca-live-stream.png"
-        },
-        {
-            "homeTeam": "Philippines U23",
-            "awayTeam": "Brunei U23",
-            "time": "2025-07-21T14:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "AFF U23 Championship",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br6.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br6.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-philippines-u23-vs-brunei-u23-live-stream",
-            "id": "live-philippines-u23-vs-brunei-u23-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/SMAJOAEhYfXLrR5oOCzaYg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/7hOLRwtuEGZpI3AOv27qKA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753077352/match_banners/live-philippines-u23-vs-brunei-u23-live-stream.png"
-        },
-        {
             "homeTeam": "Indonesia U23",
             "awayTeam": "Malaysia U23",
             "time": "2025-07-21T14:00:00+01:00",
@@ -71,6 +18,28 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/cJH9pZPURSZ68UjxxS4nKw_96x96.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753077352/match_banners/live-indonesia-u23-vs-malaysia-u23-live-stream.png"
+        },
+        {
+            "homeTeam": "Philippines U23",
+            "awayTeam": "Brunei U23",
+            "time": "2025-07-21T14:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "AFF U23 Championship",
+            "urls": [
+                "https://twnx3-cf.boblcfwudz421.com/auth%3D68c2186628ecdf6e1598002fa34155942542b591b8b2bd7d4517dfa4c9aa4e3f003107a30457be30d70790fe6fa0bf81934ccc33c2d356df95a54718c68dd41eac872ea7a34f375d3dae65bcaf3b74330fea855e1974953ebc9bb8ffa5a67f6ddf074e57e139bf5d8be0a402309c0bb357233b86405a621feaf6929582fdd948%26cid%3Dfh8IWhA8ZCOnVQFllICaa250718%26_v%3D2%26_r%3DFlEvkX%26_vis%3D7f5c1e8a0d0537d7e7acea71f0fa686ec9e2304b4feb134a7b69747589af1f5b%26_vvs%3D699d4a5cf6e2808ef753164da5ac48f86ee7bc630b5f445c440e7ed7bfd9f059/app/c360884.m3u8",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br6.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br6.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-philippines-u23-vs-brunei-u23-live-stream",
+            "id": "live-philippines-u23-vs-brunei-u23-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/SMAJOAEhYfXLrR5oOCzaYg_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/7hOLRwtuEGZpI3AOv27qKA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753077352/match_banners/live-philippines-u23-vs-brunei-u23-live-stream.png"
         },
         {
             "homeTeam": "Unirea Slobozia",
