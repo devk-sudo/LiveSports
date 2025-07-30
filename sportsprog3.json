@@ -54,7 +54,7 @@
             "time": "2025-07-30T00:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -229,23 +229,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850717/match_banners/live-team-k-league-vs-newcastle-live-stream.png"
         },
         {
-            "homeTeam": "Al Nassr",
-            "awayTeam": "Toulouse",
-            "time": "2025-07-30T16:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-al-nassr-vs-toulouse-live-stream",
-            "id": "live-al-nassr-vs-toulouse-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Nassr_FC_Logo.svg/250px-Nassr_FC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/250px-Toulouse_FC_2018_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850717/match_banners/live-al-nassr-vs-toulouse-live-stream.png"
-        },
-        {
             "homeTeam": "Mallorca",
             "awayTeam": "Olympique Lyonnais",
             "time": "2025-07-30T16:30:00+01:00",
@@ -261,6 +244,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/170px-Rcd_mallorca.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/OL_Lyonnes.svg/250px-OL_Lyonnes.svg.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850718/match_banners/live-mallorca-vs-olympique-lyonnais-live-stream.png"
+        },
+        {
+            "homeTeam": "Al Nassr",
+            "awayTeam": "Toulouse",
+            "time": "2025-07-30T16:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-al-nassr-vs-toulouse-live-stream",
+            "id": "live-al-nassr-vs-toulouse-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Nassr_FC_Logo.svg/250px-Nassr_FC_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/250px-Toulouse_FC_2018_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850717/match_banners/live-al-nassr-vs-toulouse-live-stream.png"
         },
         {
             "homeTeam": "Strasbourg",
@@ -312,22 +312,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850720/match_banners/live-ludogorets-vs-rijeka-live-stream.png"
         },
         {
-            "homeTeam": "Wolfsburg",
-            "awayTeam": "Espanyol",
-            "time": "2025-07-30T18:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-wolfsburg-vs-espanyol-live-stream",
-            "id": "live-wolfsburg-vs-espanyol-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/250px-VfL_Wolfsburg_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/250px-RCD_Espanyol_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850721/match_banners/live-wolfsburg-vs-espanyol-live-stream.png"
-        },
-        {
             "homeTeam": "Fenerbah\u00e7e",
             "awayTeam": "Lazio",
             "time": "2025-07-30T18:30:00+01:00",
@@ -344,36 +328,20 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850722/match_banners/live-fenerbah-e-vs-lazio-live-stream.png"
         },
         {
-            "homeTeam": "Coventry City",
-            "awayTeam": "Real Betis",
-            "time": "2025-07-30T19:00:00+01:00",
+            "homeTeam": "Wolfsburg",
+            "awayTeam": "Espanyol",
+            "time": "2025-07-30T18:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "Club Friendly Games",
             "urls": [
-                "https://sportzonline.si/channels/pt/sporttv4.php"
+                "https://sportzonline.si/channels/hd/hd6.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-coventry-city-vs-real-betis-live-stream",
-            "id": "live-coventry-city-vs-real-betis-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/250px-Coventry_City_FC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/230px-Real_betis_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850722/match_banners/live-coventry-city-vs-real-betis-live-stream.png"
-        },
-        {
-            "homeTeam": "Panathinaikos",
-            "awayTeam": "Rangers",
-            "time": "2025-07-30T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Champions League, Qualification",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-panathinaikos-vs-rangers-live-stream",
-            "id": "live-panathinaikos-vs-rangers-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/250px-Panathinaikos_F.C._logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850724/match_banners/live-panathinaikos-vs-rangers-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-wolfsburg-vs-espanyol-live-stream",
+            "id": "live-wolfsburg-vs-espanyol-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/250px-VfL_Wolfsburg_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/250px-RCD_Espanyol_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850721/match_banners/live-wolfsburg-vs-espanyol-live-stream.png"
         },
         {
             "homeTeam": "Estoril",
@@ -392,6 +360,22 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850724/match_banners/live-estoril-vs-nottingham-forest-live-stream.png"
         },
         {
+            "homeTeam": "Coventry City",
+            "awayTeam": "Real Betis",
+            "time": "2025-07-30T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-coventry-city-vs-real-betis-live-stream",
+            "id": "live-coventry-city-vs-real-betis-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/250px-Coventry_City_FC_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/230px-Real_betis_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850722/match_banners/live-coventry-city-vs-real-betis-live-stream.png"
+        },
+        {
             "homeTeam": "Maccabi Tel Aviv",
             "awayTeam": "Paphos",
             "time": "2025-07-30T19:00:00+01:00",
@@ -406,6 +390,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maccabi_Tel_Aviv.png/260px-Maccabi_Tel_Aviv.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/c/c0/A.E.Pafou.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850725/match_banners/live-maccabi-tel-aviv-vs-paphos-live-stream.png"
+        },
+        {
+            "homeTeam": "Panathinaikos",
+            "awayTeam": "Rangers",
+            "time": "2025-07-30T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Champions League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-panathinaikos-vs-rangers-live-stream",
+            "id": "live-panathinaikos-vs-rangers-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/250px-Panathinaikos_F.C._logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850724/match_banners/live-panathinaikos-vs-rangers-live-stream.png"
         },
         {
             "homeTeam": "Ferencv\u00e1ros",
@@ -429,7 +429,7 @@
             "time": "2025-07-30T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php",
                 "https://sportzonline.si/channels/pt/sporttv3.php"
@@ -526,7 +526,7 @@
             "time": "2025-07-30T23:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/pt/eleven1.php",
@@ -603,23 +603,20 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850732/match_banners/live-pumas-unam-vs-orlando-city-sc-live-stream.png"
         },
         {
-            "homeTeam": "Manchester United",
-            "awayTeam": "AFC Bournemouth",
+            "homeTeam": "Internacional",
+            "awayTeam": "Fluminense",
             "time": "2025-07-31T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Copa Betano do Brasil",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd1.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br6.php"
+                "https://sportzonline.si/channels/bra/br4.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-manchester-united-vs-afc-bournemouth-live-stream",
-            "id": "live-manchester-united-vs-afc-bournemouth-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/250px-Manchester_United_FC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/160px-AFC_Bournemouth_%282013%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850733/match_banners/live-manchester-united-vs-afc-bournemouth-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-fluminense-live-stream",
+            "id": "live-internacional-vs-fluminense-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753677738/match_banners/live-internacional-vs-fluminense-live-stream.png"
         },
         {
             "homeTeam": "Corinthians",
@@ -638,20 +635,23 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850734/match_banners/live-corinthians-vs-palmeiras-live-stream.png"
         },
         {
-            "homeTeam": "Internacional",
-            "awayTeam": "Fluminense",
+            "homeTeam": "Manchester United",
+            "awayTeam": "AFC Bournemouth",
             "time": "2025-07-31T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Brazil: Copa Betano do Brasil",
+            "competition": "Club Friendly Games",
             "urls": [
-                "https://sportzonline.si/channels/bra/br4.php"
+                "https://sportzonline.si/channels/hd/hd1.php",
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/pt/eleven1.php",
+                "https://sportzonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-fluminense-live-stream",
-            "id": "live-internacional-vs-fluminense-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753677738/match_banners/live-internacional-vs-fluminense-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-manchester-united-vs-afc-bournemouth-live-stream",
+            "id": "live-manchester-united-vs-afc-bournemouth-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/250px-Manchester_United_FC_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/160px-AFC_Bournemouth_%282013%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850733/match_banners/live-manchester-united-vs-afc-bournemouth-live-stream.png"
         },
         {
             "homeTeam": "Portland Timbers",
@@ -725,7 +725,7 @@
             "time": "2025-07-31T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd7.php",
                 "https://sportzonline.si/channels/bra/br6.php"
@@ -742,7 +742,7 @@
             "time": "2025-07-31T17:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Conference League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -774,7 +774,7 @@
             "time": "2025-07-31T18:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
@@ -806,7 +806,7 @@
             "time": "2025-07-31T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd4.php"
             ],
@@ -817,44 +817,12 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850741/match_banners/live-utrecht-vs-sheriff-live-stream.png"
         },
         {
-            "homeTeam": "Shakhtar Donetsk",
-            "awayTeam": "Be\u015fikta\u015f",
-            "time": "2025-07-31T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-shakhtar-donetsk-vs-be-ikta-live-stream",
-            "id": "live-shakhtar-donetsk-vs-be-ikta-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/250px-FC_Shakhtar_Donetsk.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/160px-BesiktasJK-Logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850742/match_banners/live-shakhtar-donetsk-vs-be-ikta-live-stream.png"
-        },
-        {
-            "homeTeam": "Hapoel Be'er Sheva",
-            "awayTeam": "AEK Athens",
-            "time": "2025-07-31T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-hapoel-be-er-sheva-vs-aek-athens-live-stream",
-            "id": "live-hapoel-be-er-sheva-vs-aek-athens-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Logo-hapoel-positive.svg/250px-Logo-hapoel-positive.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/155px-AEK_Athens_FC_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850743/match_banners/live-hapoel-be-er-sheva-vs-aek-athens-live-stream.png"
-        },
-        {
             "homeTeam": "Santa Clara",
             "awayTeam": "Vara\u017edin",
             "time": "2025-07-31T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Conference League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv3.php"
             ],
@@ -865,12 +833,44 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850743/match_banners/live-santa-clara-vs-vara-din-live-stream.png"
         },
         {
+            "homeTeam": "Hapoel Be'er Sheva",
+            "awayTeam": "AEK Athens",
+            "time": "2025-07-31T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Conference League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-hapoel-be-er-sheva-vs-aek-athens-live-stream",
+            "id": "live-hapoel-be-er-sheva-vs-aek-athens-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Logo-hapoel-positive.svg/250px-Logo-hapoel-positive.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/155px-AEK_Athens_FC_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850743/match_banners/live-hapoel-be-er-sheva-vs-aek-athens-live-stream.png"
+        },
+        {
+            "homeTeam": "Shakhtar Donetsk",
+            "awayTeam": "Be\u015fikta\u015f",
+            "time": "2025-07-31T19:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Europa League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-shakhtar-donetsk-vs-be-ikta-live-stream",
+            "id": "live-shakhtar-donetsk-vs-be-ikta-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/250px-FC_Shakhtar_Donetsk.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/160px-BesiktasJK-Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850742/match_banners/live-shakhtar-donetsk-vs-be-ikta-live-stream.png"
+        },
+        {
             "homeTeam": "Aris",
             "awayTeam": "Araz",
             "time": "2025-07-31T19:15:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Conference League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php"
             ],
@@ -886,7 +886,7 @@
             "time": "2025-07-31T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Europe: UEFA Conference League, Qualification",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
@@ -895,6 +895,23 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/250px-SK_Rapid_Wien_Logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fk-decic-kf-deciqi.png/250px-Fk-decic-kf-deciqi.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850744/match_banners/live-rapid-wien-vs-de-i-live-stream.png"
+        },
+        {
+            "homeTeam": "Sporting Braga",
+            "awayTeam": "Levski Sofia",
+            "time": "2025-07-31T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Europa League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sporting-braga-vs-levski-sofia-live-stream",
+            "id": "live-sporting-braga-vs-levski-sofia-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/250px-S.C._Braga_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/PFC_Levski_Sofia.svg/250px-PFC_Levski_Sofia.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850746/match_banners/live-sporting-braga-vs-levski-sofia-live-stream.png"
         },
         {
             "homeTeam": "Real Oviedo",
@@ -913,39 +930,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850745/match_banners/live-real-oviedo-vs-villarreal-live-stream.png"
         },
         {
-            "homeTeam": "Sporting Braga",
-            "awayTeam": "Levski Sofia",
-            "time": "2025-07-31T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sporting-braga-vs-levski-sofia-live-stream",
-            "id": "live-sporting-braga-vs-levski-sofia-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/250px-S.C._Braga_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/PFC_Levski_Sofia.svg/250px-PFC_Levski_Sofia.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850746/match_banners/live-sporting-braga-vs-levski-sofia-live-stream.png"
-        },
-        {
-            "homeTeam": "Partizan",
-            "awayTeam": "Oleksandria",
-            "time": "2025-07-31T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd7.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-partizan-vs-oleksandria-live-stream",
-            "id": "live-partizan-vs-oleksandria-live-stream",
-            "homeTeamLogo": "https://livesports808.top/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/FC_Oleksandriya_logo.svg/145px-FC_Oleksandriya_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850747/match_banners/live-partizan-vs-oleksandria-live-stream.png"
-        },
-        {
             "homeTeam": "Athletico-PR U20",
             "awayTeam": "Vasco U20",
             "time": "2025-07-31T20:00:00+01:00",
@@ -962,12 +946,28 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850748/match_banners/live-athletico-pr-u20-vs-vasco-u20-live-stream.png"
         },
         {
+            "homeTeam": "Partizan",
+            "awayTeam": "Oleksandria",
+            "time": "2025-07-31T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Conference League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-partizan-vs-oleksandria-live-stream",
+            "id": "live-partizan-vs-oleksandria-live-stream",
+            "homeTeamLogo": "https://livesports808.top/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/FC_Oleksandriya_logo.svg/145px-FC_Oleksandriya_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1753850747/match_banners/live-partizan-vs-oleksandria-live-stream.png"
+        },
+        {
             "homeTeam": "Sporting CP",
             "awayTeam": "Benfica",
             "time": "2025-07-31T20:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Portugal: Super Cup",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd11.php",
@@ -985,7 +985,7 @@
             "time": "2025-07-31T23:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Copa Betano do Brasil",
             "urls": [
                 "https://sportzonline.si/channels/bra/br3.php"
             ],
@@ -1017,7 +1017,7 @@
             "time": "2025-08-01T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Copa Betano do Brasil",
             "urls": [
                 "https://sportzonline.si/channels/bra/br1.php"
             ],
@@ -1033,7 +1033,7 @@
             "time": "2025-08-01T01:35:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -1065,7 +1065,7 @@
             "time": "2025-08-01T03:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "North & Central America: Leagues Cup, Group Stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php"
             ],
@@ -1181,7 +1181,7 @@
             "time": "2025-08-01T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Germany: 2. Bundesliga",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php",
                 "https://sportzonline.si/channels/pt/eleven2.php"
@@ -1198,7 +1198,7 @@
             "time": "2025-08-01T19:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Belgium: Pro League",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd4.php",
                 "https://sportzonline.si/channels/pt/eleven1.php"
@@ -1215,7 +1215,7 @@
             "time": "2025-08-01T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "England: League One",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd2.php",
                 "https://sportzonline.si/channels/pt/sporttv3.php"
@@ -1248,7 +1248,7 @@
             "time": "2025-08-01T21:10:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Copa Argentina",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
@@ -1265,7 +1265,7 @@
             "time": "2025-08-01T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil: Brasileir\u00e3o S\u00e9rie B",
             "urls": [
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
@@ -1281,7 +1281,7 @@
             "time": "2025-08-02T00:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Colombia: Primera A, Clausura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -1297,7 +1297,7 @@
             "time": "2025-08-02T00:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Argentina: Copa Argentina",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd6.php",
                 "https://sportzonline.si/channels/pt/sporttv4.php"
@@ -1314,7 +1314,7 @@
             "time": "2025-08-02T02:10:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Colombia: Primera A, Clausura",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
@@ -1330,7 +1330,7 @@
             "time": "2025-08-02T04:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "North & Central America: Leagues Cup, Group Stage",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd5.php"
             ],
