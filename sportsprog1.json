@@ -349,7 +349,7 @@
             "time": "2025-08-04T12:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Club Friendly Games",
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php",
                 "https://sportzonline.si/channels/hd/hd6.php",
@@ -358,7 +358,8 @@
             "eventUrl": "https://livesports808.top/watch/live-daegu-vs-barcelona-live-stream",
             "id": "live-daegu-vs-barcelona-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Daegu_FC.svg/230px-Daegu_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/230px-FC_Barcelona_%28crest%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/230px-FC_Barcelona_%28crest%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283181/match_banners/live-daegu-vs-barcelona-live-stream.png"
         },
         {
             "homeTeam": "Liverpool",
@@ -376,7 +377,8 @@
             "eventUrl": "https://livesports808.top/watch/live-liverpool-vs-athletic-club-live-stream",
             "id": "live-liverpool-vs-athletic-club-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/200px-Liverpool_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/180px-Club_Athletic_Bilbao_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/180px-Club_Athletic_Bilbao_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283181/match_banners/live-liverpool-vs-athletic-club-live-stream.png"
         },
         {
             "homeTeam": "Cherno More",
@@ -391,7 +393,8 @@
             "eventUrl": "https://livesports808.top/watch/live-cherno-more-vs-beroe-live-stream",
             "id": "live-cherno-more-vs-beroe-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/175px-Cherno_More_Varna.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283183/match_banners/live-cherno-more-vs-beroe-live-stream.png"
         },
         {
             "homeTeam": "Unirea Slobozia",
@@ -406,7 +409,8 @@
             "eventUrl": "https://livesports808.top/watch/live-unirea-slobozia-vs-o-elul-live-stream",
             "id": "live-unirea-slobozia-vs-o-elul-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/AFC_Unirea_Slobozia.png/250px-AFC_Unirea_Slobozia.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/250px-ASC_Otelul_Galati_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/250px-ASC_Otelul_Galati_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283184/match_banners/live-unirea-slobozia-vs-o-elul-live-stream.png"
         },
         {
             "homeTeam": "Novi Pazar",
@@ -421,7 +425,8 @@
             "eventUrl": "https://livesports808.top/watch/live-novi-pazar-vs-imt-novi-beograd-live-stream",
             "id": "live-novi-pazar-vs-imt-novi-beograd-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fk-novi-pazar-logo.svg/250px-Fk-novi-pazar-logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/U%C5%A1%C4%87e_novi_beograd_logo.webp/180px-U%C5%A1%C4%87e_novi_beograd_logo.webp.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/U%C5%A1%C4%87e_novi_beograd_logo.webp/180px-U%C5%A1%C4%87e_novi_beograd_logo.webp.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283184/match_banners/live-novi-pazar-vs-imt-novi-beograd-live-stream.png"
         },
         {
             "homeTeam": "Tychy 71",
@@ -436,7 +441,8 @@
             "eventUrl": "https://livesports808.top/watch/live-tychy-71-vs-wis-a-krak-w-live-stream",
             "id": "live-tychy-71-vs-wis-a-krak-w-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/GKS_Tychy_Logo.svg/170px-GKS_Tychy_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Wis%C5%82a_Krak%C3%B3w_logo.svg/175px-Wis%C5%82a_Krak%C3%B3w_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Wis%C5%82a_Krak%C3%B3w_logo.svg/175px-Wis%C5%82a_Krak%C3%B3w_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283185/match_banners/live-tychy-71-vs-wis-a-krak-w-live-stream.png"
         },
         {
             "homeTeam": "Botev Plovdiv",
@@ -451,7 +457,8 @@
             "eventUrl": "https://livesports808.top/watch/live-botev-plovdiv-vs-arda-live-stream",
             "id": "live-botev-plovdiv-vs-arda-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/PFC_Botev_Plovdiv.svg/250px-PFC_Botev_Plovdiv.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg/250px-Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg/250px-Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283186/match_banners/live-botev-plovdiv-vs-arda-live-stream.png"
         },
         {
             "homeTeam": "Rapid Bucure\u015fti",
@@ -466,7 +473,8 @@
             "eventUrl": "https://livesports808.top/watch/live-rapid-bucure-ti-vs-boto-ani-live-stream",
             "id": "live-rapid-bucure-ti-vs-boto-ani-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/250px-FC_Rapid_Bucuresti_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FC_Botosani_2022_logo.png/250px-FC_Botosani_2022_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FC_Botosani_2022_logo.png/250px-FC_Botosani_2022_logo.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283187/match_banners/live-rapid-bucure-ti-vs-boto-ani-live-stream.png"
         },
         {
             "homeTeam": "Liverpool U21",
@@ -481,7 +489,8 @@
             "eventUrl": "https://livesports808.top/watch/live-liverpool-u21-vs-athletic-club-b-live-stream",
             "id": "live-liverpool-u21-vs-athletic-club-b-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kit_left_arm_liverpool2526h.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Athletic_Club_%28Minas_Gerais%29.svg/250px-Athletic_Club_%28Minas_Gerais%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Athletic_Club_%28Minas_Gerais%29.svg/250px-Athletic_Club_%28Minas_Gerais%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283188/match_banners/live-liverpool-u21-vs-athletic-club-b-live-stream.png"
         },
         {
             "homeTeam": "Liverpool Sub21",
@@ -496,7 +505,8 @@
             "eventUrl": "https://livesports808.top/watch/live-liverpool-sub21-vs-athletic-club-ii-live-stream",
             "id": "live-liverpool-sub21-vs-athletic-club-ii-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bar%C3%A7a_-_Napoli_-_20140806_-_Martin_Montoya_%28cropped%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Athletic_Club_%28Minas_Gerais%29.svg/250px-Athletic_Club_%28Minas_Gerais%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Athletic_Club_%28Minas_Gerais%29.svg/250px-Athletic_Club_%28Minas_Gerais%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283188/match_banners/live-liverpool-sub21-vs-athletic-club-ii-live-stream.png"
         },
         {
             "homeTeam": "Sevilla",
@@ -511,7 +521,8 @@
             "eventUrl": "https://livesports808.top/watch/live-sevilla-vs-al-quadisiya-live-stream",
             "id": "live-sevilla-vs-al-quadisiya-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/170px-Sevilla_FC_logo.svg.png",
-            "awayTeamLogo": "https://livesports808.top/crest_48dp.png"
+            "awayTeamLogo": "https://livesports808.top/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283189/match_banners/live-sevilla-vs-al-quadisiya-live-stream.png"
         },
         {
             "homeTeam": "Hearts",
@@ -526,7 +537,8 @@
             "eventUrl": "https://livesports808.top/watch/live-hearts-vs-aberdeen-live-stream",
             "id": "live-hearts-vs-aberdeen-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/250px-Heart_of_Midlothian_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/200px-Aberdeen_FC_stars_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/200px-Aberdeen_FC_stars_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283190/match_banners/live-hearts-vs-aberdeen-live-stream.png"
         },
         {
             "homeTeam": "\u017delezni\u010dar Pan\u010devo",
@@ -541,7 +553,8 @@
             "eventUrl": "https://livesports808.top/watch/live-elezni-ar-pan-evo-vs-napredak-live-stream",
             "id": "live-elezni-ar-pan-evo-vs-napredak-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/FK_%C5%BDelezni%C4%8Dar_Pan%C4%8Devo_logo.png/170px-FK_%C5%BDelezni%C4%8Dar_Pan%C4%8Devo_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Napredak_Krusevac_logo.svg/250px-FK_Napredak_Krusevac_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Napredak_Krusevac_logo.svg/250px-FK_Napredak_Krusevac_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283190/match_banners/live-elezni-ar-pan-evo-vs-napredak-live-stream.png"
         },
         {
             "homeTeam": "Pacific",
@@ -556,7 +569,8 @@
             "eventUrl": "https://livesports808.top/watch/live-pacific-vs-cavalry-live-stream",
             "id": "live-pacific-vs-cavalry-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Pacific_FC_logo.svg/130px-Pacific_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Cavalry_FC_logo.svg/180px-Cavalry_FC_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Cavalry_FC_logo.svg/180px-Cavalry_FC_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283191/match_banners/live-pacific-vs-cavalry-live-stream.png"
         },
         {
             "homeTeam": "Santos",
@@ -571,7 +585,8 @@
             "eventUrl": "https://livesports808.top/watch/live-santos-vs-juventude-live-stream",
             "id": "live-santos-vs-juventude-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Santos_Logo.png/250px-Santos_Logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/EC_Juventude.svg/245px-EC_Juventude.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/EC_Juventude.svg/245px-EC_Juventude.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283192/match_banners/live-santos-vs-juventude-live-stream.png"
         }
     ]
 }
