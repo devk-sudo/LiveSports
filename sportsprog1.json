@@ -1,22 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Leicester City",
-            "awayTeam": "Fiorentina",
-            "time": "2025-08-03T15:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd7.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-leicester-city-vs-fiorentina-live-stream",
-            "id": "live-leicester-city-vs-fiorentina-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/250px-Leicester_City_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/230px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109133/match_banners/live-leicester-city-vs-fiorentina-live-stream.png"
-        },
-        {
             "homeTeam": "Cercle Brugge",
             "awayTeam": "Anderlecht",
             "time": "2025-08-03T15:00:00+01:00",
@@ -32,6 +16,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Cercle_Brugge_2022.png/250px-Logo_Cercle_Brugge_2022.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/270px-R.S.C._Anderlecht.svg.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109134/match_banners/live-cercle-brugge-vs-anderlecht-live-stream.png"
+        },
+        {
+            "homeTeam": "Leicester City",
+            "awayTeam": "Fiorentina",
+            "time": "2025-08-03T15:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-leicester-city-vs-fiorentina-live-stream",
+            "id": "live-leicester-city-vs-fiorentina-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/250px-Leicester_City_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/230px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109133/match_banners/live-leicester-city-vs-fiorentina-live-stream.png"
         },
         {
             "homeTeam": "Celtic",
@@ -98,22 +98,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109137/match_banners/live-napoli-vs-brest-live-stream.png"
         },
         {
-            "homeTeam": "Girona",
-            "awayTeam": "Wolverhampton Wanderers",
-            "time": "2025-08-03T19:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-girona-vs-wolverhampton-wanderers-live-stream",
-            "id": "live-girona-vs-wolverhampton-wanderers-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/250px-Girona_FC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/250px-Wolverhampton_Wanderers_FC_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109140/match_banners/live-girona-vs-wolverhampton-wanderers-live-stream.png"
-        },
-        {
             "homeTeam": "AFC Bournemouth",
             "awayTeam": "West Ham United",
             "time": "2025-08-03T19:00:00+01:00",
@@ -150,20 +134,20 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109138/match_banners/live-porto-vs-atl-tico-madrid-live-stream.png"
         },
         {
-            "homeTeam": "Botafogo",
-            "awayTeam": "Cruzeiro",
-            "time": "2025-08-03T20:00:00+01:00",
+            "homeTeam": "Girona",
+            "awayTeam": "Wolverhampton Wanderers",
+            "time": "2025-08-03T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "competition": "League Event",
             "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
+                "https://sportzonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-botafogo-vs-cruzeiro-live-stream",
-            "id": "live-botafogo-vs-cruzeiro-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109141/match_banners/live-botafogo-vs-cruzeiro-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-girona-vs-wolverhampton-wanderers-live-stream",
+            "id": "live-girona-vs-wolverhampton-wanderers-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/250px-Girona_FC_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/250px-Wolverhampton_Wanderers_FC_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109140/match_banners/live-girona-vs-wolverhampton-wanderers-live-stream.png"
         },
         {
             "homeTeam": "Corinthians",
@@ -180,6 +164,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/120px-Corinthian_fc_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/250px-Fortaleza_CEIF_logo.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109142/match_banners/live-corinthians-vs-fortaleza-live-stream.png"
+        },
+        {
+            "homeTeam": "Botafogo",
+            "awayTeam": "Cruzeiro",
+            "time": "2025-08-03T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-botafogo-vs-cruzeiro-live-stream",
+            "id": "live-botafogo-vs-cruzeiro-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109141/match_banners/live-botafogo-vs-cruzeiro-live-stream.png"
         },
         {
             "homeTeam": "Manchester United",
@@ -200,22 +200,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109143/match_banners/live-manchester-united-vs-everton-live-stream.png"
         },
         {
-            "homeTeam": "Cear\u00e1",
-            "awayTeam": "Flamengo",
-            "time": "2025-08-03T22:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Brazil: Brasileir\u00e3o Betano",
-            "urls": [
-                "https://sportzonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cear-vs-flamengo-live-stream",
-            "id": "live-cear-vs-flamengo-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/250px-Cear%C3%A1_Sporting_Club_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109144/match_banners/live-cear-vs-flamengo-live-stream.png"
-        },
-        {
             "homeTeam": "Atl\u00e9tico Mineiro",
             "awayTeam": "RB Bragantino",
             "time": "2025-08-03T22:30:00+01:00",
@@ -230,6 +214,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Clube_Atl%C3%A9tico_Mineiro_crest.svg/250px-Clube_Atl%C3%A9tico_Mineiro_crest.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/250px-Red_Bull_Bragantino_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109145/match_banners/live-atl-tico-mineiro-vs-rb-bragantino-live-stream.png"
+        },
+        {
+            "homeTeam": "Cear\u00e1",
+            "awayTeam": "Flamengo",
+            "time": "2025-08-03T22:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil: Brasileir\u00e3o Betano",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-cear-vs-flamengo-live-stream",
+            "id": "live-cear-vs-flamengo-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/250px-Cear%C3%A1_Sporting_Club_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754109144/match_banners/live-cear-vs-flamengo-live-stream.png"
         },
         {
             "homeTeam": "Real Espa\u00f1a",
@@ -381,22 +381,6 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283181/match_banners/live-liverpool-vs-athletic-club-live-stream.png"
         },
         {
-            "homeTeam": "Cherno More",
-            "awayTeam": "Beroe",
-            "time": "2025-08-04T17:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd8.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-cherno-more-vs-beroe-live-stream",
-            "id": "live-cherno-more-vs-beroe-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/175px-Cherno_More_Varna.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283183/match_banners/live-cherno-more-vs-beroe-live-stream.png"
-        },
-        {
             "homeTeam": "Unirea Slobozia",
             "awayTeam": "O\u0163elul",
             "time": "2025-08-04T17:00:00+01:00",
@@ -413,20 +397,20 @@
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283184/match_banners/live-unirea-slobozia-vs-o-elul-live-stream.png"
         },
         {
-            "homeTeam": "Novi Pazar",
-            "awayTeam": "IMT Novi Beograd",
-            "time": "2025-08-04T18:00:00+01:00",
+            "homeTeam": "Cherno More",
+            "awayTeam": "Beroe",
+            "time": "2025-08-04T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
+                "https://sportzonline.si/channels/hd/hd8.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-novi-pazar-vs-imt-novi-beograd-live-stream",
-            "id": "live-novi-pazar-vs-imt-novi-beograd-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fk-novi-pazar-logo.svg/250px-Fk-novi-pazar-logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/U%C5%A1%C4%87e_novi_beograd_logo.webp/180px-U%C5%A1%C4%87e_novi_beograd_logo.webp.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283184/match_banners/live-novi-pazar-vs-imt-novi-beograd-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-cherno-more-vs-beroe-live-stream",
+            "id": "live-cherno-more-vs-beroe-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/175px-Cherno_More_Varna.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283183/match_banners/live-cherno-more-vs-beroe-live-stream.png"
         },
         {
             "homeTeam": "Tychy 71",
@@ -443,6 +427,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/GKS_Tychy_Logo.svg/170px-GKS_Tychy_Logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Wis%C5%82a_Krak%C3%B3w_logo.svg/175px-Wis%C5%82a_Krak%C3%B3w_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283185/match_banners/live-tychy-71-vs-wis-a-krak-w-live-stream.png"
+        },
+        {
+            "homeTeam": "Novi Pazar",
+            "awayTeam": "IMT Novi Beograd",
+            "time": "2025-08-04T18:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-novi-pazar-vs-imt-novi-beograd-live-stream",
+            "id": "live-novi-pazar-vs-imt-novi-beograd-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fk-novi-pazar-logo.svg/250px-Fk-novi-pazar-logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/U%C5%A1%C4%87e_novi_beograd_logo.webp/180px-U%C5%A1%C4%87e_novi_beograd_logo.webp.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283184/match_banners/live-novi-pazar-vs-imt-novi-beograd-live-stream.png"
         },
         {
             "homeTeam": "Botev Plovdiv",
@@ -475,6 +475,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/250px-FC_Rapid_Bucuresti_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FC_Botosani_2022_logo.png/250px-FC_Botosani_2022_logo.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283187/match_banners/live-rapid-bucure-ti-vs-boto-ani-live-stream.png"
+        },
+        {
+            "homeTeam": "Hearts",
+            "awayTeam": "Aberdeen",
+            "time": "2025-08-04T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-hearts-vs-aberdeen-live-stream",
+            "id": "live-hearts-vs-aberdeen-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/250px-Heart_of_Midlothian_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/200px-Aberdeen_FC_stars_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283190/match_banners/live-hearts-vs-aberdeen-live-stream.png"
         },
         {
             "homeTeam": "Liverpool U21",
@@ -523,22 +539,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/170px-Sevilla_FC_logo.svg.png",
             "awayTeamLogo": "https://livesports808.top/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283189/match_banners/live-sevilla-vs-al-quadisiya-live-stream.png"
-        },
-        {
-            "homeTeam": "Hearts",
-            "awayTeam": "Aberdeen",
-            "time": "2025-08-04T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-hearts-vs-aberdeen-live-stream",
-            "id": "live-hearts-vs-aberdeen-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/250px-Heart_of_Midlothian_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/200px-Aberdeen_FC_stars_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djeyv81tu/image/upload/v1754283190/match_banners/live-hearts-vs-aberdeen-live-stream.png"
         },
         {
             "homeTeam": "\u017delezni\u010dar Pan\u010devo",
