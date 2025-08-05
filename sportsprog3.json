@@ -83,22 +83,6 @@
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362700/match_banners/live-malm-ff-vs-k-benhavn-live-stream.png"
         },
         {
-            "homeTeam": "Hamrun Spartans",
-            "awayTeam": "Maccabi Tel Aviv",
-            "time": "2025-08-05T18:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Europa League, Qualification",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream",
-            "id": "live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hamrun_Spartans_F.C._Badge.png/250px-Hamrun_Spartans_F.C._Badge.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maccabi_Tel_Aviv.png/260px-Maccabi_Tel_Aviv.png",
-            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362701/match_banners/live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream.png"
-        },
-        {
             "homeTeam": "Paphos",
             "awayTeam": "Dynamo Kyiv",
             "time": "2025-08-05T18:00:00+01:00",
@@ -115,20 +99,20 @@
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362701/match_banners/live-paphos-vs-dynamo-kyiv-live-stream.png"
         },
         {
-            "homeTeam": "Rangers",
-            "awayTeam": "Viktoria Plze\u0148",
-            "time": "2025-08-05T19:45:00+01:00",
+            "homeTeam": "Hamrun Spartans",
+            "awayTeam": "Maccabi Tel Aviv",
+            "time": "2025-08-05T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Champions League, Qualification",
+            "competition": "Europe: UEFA Europa League, Qualification",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php"
+                "https://sportzonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-rangers-vs-viktoria-plze-live-stream",
-            "id": "live-rangers-vs-viktoria-plze-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/140px-Viktoria_Plzen_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362702/match_banners/live-rangers-vs-viktoria-plze-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream",
+            "id": "live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hamrun_Spartans_F.C._Badge.png/250px-Hamrun_Spartans_F.C._Badge.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maccabi_Tel_Aviv.png/260px-Maccabi_Tel_Aviv.png",
+            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362701/match_banners/live-hamrun-spartans-vs-maccabi-tel-aviv-live-stream.png"
         },
         {
             "homeTeam": "Accrington Stanley",
@@ -145,6 +129,22 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Accrington_Stanley_F.C._logo.svg/200px-Accrington_Stanley_F.C._logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oldham_Athletic_AFC_%28emblem%29.svg/120px-Oldham_Athletic_AFC_%28emblem%29.svg.png",
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362703/match_banners/live-accrington-stanley-vs-oldham-athletic-live-stream.png"
+        },
+        {
+            "homeTeam": "Rangers",
+            "awayTeam": "Viktoria Plze\u0148",
+            "time": "2025-08-05T19:45:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Europe: UEFA Champions League, Qualification",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-rangers-vs-viktoria-plze-live-stream",
+            "id": "live-rangers-vs-viktoria-plze-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/140px-Viktoria_Plzen_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362702/match_banners/live-rangers-vs-viktoria-plze-live-stream.png"
         },
         {
             "homeTeam": "C\u00facuta Deportivo",
@@ -292,6 +292,22 @@
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362709/match_banners/live-lech-pozna-vs-crvena-zvezda-live-stream.png"
         },
         {
+            "homeTeam": "Aston Villa",
+            "awayTeam": "Roma",
+            "time": "2025-08-06T19:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Club Friendly Games",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-aston-villa-vs-roma-live-stream",
+            "id": "live-aston-villa-vs-roma-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/250px-Aston_Villa_FC_new_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362711/match_banners/live-aston-villa-vs-roma-live-stream.png"
+        },
+        {
             "homeTeam": "Real Betis",
             "awayTeam": "Como",
             "time": "2025-08-06T19:30:00+01:00",
@@ -311,20 +327,20 @@
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362710/match_banners/live-real-betis-vs-como-live-stream.png"
         },
         {
-            "homeTeam": "Aston Villa",
-            "awayTeam": "Roma",
-            "time": "2025-08-06T19:30:00+01:00",
+            "homeTeam": "Nice",
+            "awayTeam": "Benfica",
+            "time": "2025-08-06T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Club Friendly Games",
+            "competition": "Europe: UEFA Champions League, Qualification",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd7.php"
+                "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-aston-villa-vs-roma-live-stream",
-            "id": "live-aston-villa-vs-roma-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/250px-Aston_Villa_FC_new_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362711/match_banners/live-aston-villa-vs-roma-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-nice-vs-benfica-live-stream",
+            "id": "live-nice-vs-benfica-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/170px-OGC_Nice_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/250px-SL_Benfica_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362712/match_banners/live-nice-vs-benfica-live-stream.png"
         },
         {
             "homeTeam": "Feyenoord",
@@ -342,22 +358,6 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/250px-Feyenoord_logo_since_2024.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/250px-Fenerbah%C3%A7e.svg.png",
             "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362712/match_banners/live-feyenoord-vs-fenerbah-e-live-stream.png"
-        },
-        {
-            "homeTeam": "Nice",
-            "awayTeam": "Benfica",
-            "time": "2025-08-06T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Europe: UEFA Champions League, Qualification",
-            "urls": [
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-nice-vs-benfica-live-stream",
-            "id": "live-nice-vs-benfica-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/170px-OGC_Nice_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/250px-SL_Benfica_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/djcyyucyd/image/upload/v1754362712/match_banners/live-nice-vs-benfica-live-stream.png"
         },
         {
             "homeTeam": "Atl\u00e9tico-MG",
